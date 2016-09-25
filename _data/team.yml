@@ -86,6 +86,18 @@ skade:
     - icon: "website"
       title: "asquera.de"
       link: "http://asquera.de/"
+katsel:
+  name: "Katharina Hößel"
+  nick: "katsel"
+  desc: ""
+  thumbnailUrl: katharina.jpg
+  links:
+    - icon: "twitter"
+      title: "_katsel"
+      link: "https://twitter.com/_katsel"
+    - icon: "github"
+      title: "katsel"
+      link: "https://github.com/katsel"
 andrey:
   name: "Andrey Listochkin"
   nick: "listochkin"
