@@ -34,11 +34,6 @@ bodytags: with-hero
           </address>
         </p>
       </div>
-
-      <!--
-      <div class="callout">
-        <a href="#tickets" class="button primary js-smoothscroll">Get your tickets</a>
-      </div> -->
     </div>
 
   </section>
@@ -50,41 +45,6 @@ bodytags: with-hero
     <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn" frameborder="0" allowfullscreen></iframe>
   </section>
 </div>
-
-
-
-{% comment %}
-<div>
-  <section id="speakers">
-    <h2>Speakers</h2>
-    <ul class="speakers">
-      {% for item in site.data.speakers %}
-        {% assign speaker = item[1] %}
-        {% if speaker.featured %}
-          <li class="speaker-box">
-            <div  class="portrait">
-              <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
-            </div>
-            <div class="info">
-              <span class="name">{{speaker.name}}</span>
-              <ul class="links">
-                {% for link in speaker.links %}
-                  <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
-                {% endfor %}
-              </ul>
-            </div>
-            <div class="desc">
-              {{speaker.desc | markdownify | truncatewords: 50}}
-            </div>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </section>
-</div>
-
-{% endcomment %}
-
 
 <div id="sponsors" class="sponsors">
   <section>
@@ -103,54 +63,6 @@ bodytags: with-hero
     </div>
   </section>
 </div>
-
-{% comment %}
-<div id="tickets">
-  <section>
-    <h2>Get your ticket</h2>
-    <ul class="tickets">
-      <li>
-        <h3>Regular</h3>
-        <span class="price">125</span>
-        <p class="smallprint">
-          Regular conference ticket: get access to both days of conference and workshops. Student discount available*.
-        </p>
-        <a href="https://ti.to/mdn/rustfest-2016/?nl-cnbo23h0=1">
-          <h4>Join now</h4>
-        </a>
-      </li>
-      <li class="hl">
-        <h3>✨ Supporter ✨</h3>
-        <span class="price">250</span>
-        <p class="smallprint">
-          Full access to the conference and support the diversity efforts: Every supporter ticket sold allows the team to offer more student and diversity tickets.
-        </p>
-        <a href="https://ti.to/mdn/rustfest-2016/?wq4umnqw4w0=1">
-          <h4>Become a Supporter</h4>
-        </a>
-      </li>
-      <li>
-        <h3>View Source Combo</h3>
-        <div class="price">450</div>
-        <p class="smallprint">
-          Get full access to both RustFest and <a href="https://viewsourceconf.org/berlin-2016/">View Source</a> taking place in the same week in Berlin with the combo ticket.
-        </p>
-        <a href="https://ti.to/mdn/rustfest-2016/?jmgespnso-i=1">
-          <h4>Buy now</h4>
-        </a>
-      </li>
-
-    </ul>
-    <p class="smallprint">
-      * For a 20%-student discount please use the <em>STUDENT</em>-code at checkout. You will have to provide a proof in form of an <a href="https://www.isic.org/">International Student Identity Card</a> or proof of matriculation in German, English, Hungarian or Ukrainian (a <a href="https://de.wikipedia.org/wiki/Studierendenausweis">Studentenausweis</a> is sufficient) when picking up your conference badge.
-    </p>
-    <p class="smallprint">
-      Prices are advertised excluding VAT (where applicable). All sales are final. Tickets grant access to the conference, including food and drinks. The <a href="/code-of-conduct/">Code of Conduct</a> applies. Sales are awarded on a first-come-first-serve basis, but are sold in batches. We also have diversity tickets available – you can <a href="https://diversitytickets.org/events/35">apply here</a>. Registration for workshops will be handled separately.
-    </p>
-  </section>
-</div>
-
-{% endcomment %}
 
 {% assign post = site.posts[0] %}
 {% if post %}
