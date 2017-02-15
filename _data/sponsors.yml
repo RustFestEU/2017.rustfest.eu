@@ -1,45 +1,3 @@
-- name: "Microsoft Berlin"
-  logoName: Microsoft.svg
-  link: "https://www.microsoft-berlin.de/de-de/berlin/"
-  featured: true
-  group: sponsor
-- name: "1aim"
-  logoName: 1aim.png
-  link: "https://1aim.com"
-  featured: true
-  group: sponsor
-- name: "ETHCORE"
-  logoName: ethcore-black-horizontal.png
-  link: "https://ethcore.io/"
-  desc: "Ethcore’s mission is to enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents. We develop cutting-edge software solutions for enterprises and industries to unlock the full value of decentralised technology. We believe that decentralised technology has the power to fundamentally change and enhance the systems used by businesses, consumers, and governments every day."
-  featured: true
-  group: sponsor
-- name: "Mozilla"
-  logoName: "mozilla.png"
-  link: "https://www.mozilla.org"
-  featured: true
-  group: sponsor
-  desc: "At Mozilla, we’re a global community of technologists, thinkers and builders working together so people worldwide can be informed contributors and creators of the Web. Our mission is to ensure the Internet is a global public resource, open and accessible to all, where individuals can shape their own experience and are empowered, safe and independent."
-- name: "QiTASC"
-  link: "http://www.qitasc.com/"
-  logoName: qitasc.png
-  featured: true
-  desc: "QiTASC offers services and products for end-to-end test automation that excel in testing complex IT solutions with many interfaces. In order to improve project execution, especially tests, QiTASC follows an integral approach for its projects. This has led to the development of the \"All-In\" INTACT product suite. Accordingly, test cases that automatically verify all related data (e.g. Event/Call Detail Records) are used throughout development, lab, pre-production and production.  Additionally, QiTASC creates prediction models of costs and resources for operating the system under test and its maintainability and extensibility. This enables QiTASC to assist in deploying high-quality solutions for our customers."
-  group: sponsor
-- name: "ThoughtWorks Berlin"
-  logoName: TW_Logo_black.png
-  link: "https://www.thoughtworks.com/"
-  featured: false
-  group: sponsor
-  desc: "We are a software company and a community of passionate, purpose-led individuals. We think disruptively to deliver technology to address our clients' toughest challenges, all while seeking to revolutionize the IT industry and create positive social change."
-- name: "factor10"
-  logoName: "factor10.png"
-  link: "http://factor10.com"
-  group: "sponsor"
-- name: "ViewSource"
-  logoName: viewsource.png
-  link: "https://viewsourceconf.org/berlin-2016/"
-  group: partner
 - name: "asquera GmbH"
   logoName: asquera.svg
   link: "http://asquera.de"
@@ -52,15 +10,7 @@
   logoName: ots.png
   link: "http://opentechschool.org/berlin/"
   group: partner
-- name: "Co-Up"
-  logoName: default_coup_logo_wide.png
-  link: "http://co-up.de/"
+- name: "Cosmopolite New Congress Hall"
+  logoName: cosmopolite-congress-hall.png
+  link: "http://cosmopolite-kiev.com/conference/new-congress-hall"
   group: venue
-- name: "rrbone"
-  logoName: rrbone.png
-  link: "https://www.rrbone.net/de/"
-  group: media
-- name: "Drunken Records"
-  logoName: drunkenrecords.png
-  link: "https://www.drunkenrecords.de/"
-  group: media
