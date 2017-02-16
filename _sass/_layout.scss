@@ -29,10 +29,7 @@
 .hero {
   .itemgroup {
     margin: 2em 0;
-
-    @include wide-device {
-      @include align-items(flex-end);
-    }
+    @include align-items(flex-start);
   }
 
   p {
@@ -55,6 +52,12 @@
 
   @include wide-device {
     margin: 0 2em 0 4em;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
   }
 
   h3 {
