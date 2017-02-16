@@ -1,5 +1,5 @@
 .hero {
-  @include linear-gradient(to bottom, transparentize($brand_purple, .3), $brand_blue);
+  @include linear-gradient(to bottom, transparentize($brand_blue, .3), $brand_purple);
   color: white;
   padding: {
     top: 2em;
@@ -39,7 +39,7 @@
 }
 
 .popout {
-  background-color: $brand_blue;
+  background-color: $brand_purple;
   color: white;
   padding: {
     top: 2em;

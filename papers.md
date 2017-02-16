@@ -5,7 +5,7 @@ title: Call for Papers
 ---
 
 
-We're opening a total of **5-6 speaker slots**. Talks are 30 minutes long, including Q&A.
+We're opening a total of **10-12 speaker slots**. Talks are 30 minutes long, including Q&A.
 
 Rust is a new language so all papers are welcome. If you have been working on something for only 6 months, but it's interesting, then apply!
 

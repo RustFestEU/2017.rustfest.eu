@@ -1,0 +1,9 @@
+<img src="/assets/team/{{include.member.thumbnailUrl}}" />
+<div class="info">
+  <span class="name">{{include.member.name}}</span>
+  <ul class="links">
+    {% for link in include.member.links %}
+      <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
+    {% endfor %}
+  </ul>
+</div>

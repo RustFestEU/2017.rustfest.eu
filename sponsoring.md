@@ -64,8 +64,6 @@ title: Sponsoring
 
 <section class="whitewithwheel">
   <h2>Interested in Sponsoring?</h2>
-  <p>Learn more about <a href="/assets/downloads/rustfest_2016_sponsorship.pdf">RustFest's Sponsorship Packages here</a>.
-  </p>
   <br />
   <p>
     <a class="button" href="mailto:sponsors@rustfest.eu">
