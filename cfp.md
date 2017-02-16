@@ -50,5 +50,5 @@ We will give more details once CFP opens.
 
 
 <p>
-  <a class="cfp-button button primary" href="https://cfp.rustfest.eu">Send paper now</a>
+  <a class="cfp-button button primary" href="https://cfp.rustfest.eu">Submit proposal now</a>
 </p>
