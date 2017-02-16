@@ -13,17 +13,25 @@ We care about diversity and accessibility at this conference.
   <ul class="team">
     {% for entry in site.data.team %}
       {% assign member=entry[1] %}
-      <li>
-        <img src="/assets/team/{{member.thumbnailUrl}}" />
-        <div class="info">
-          <span class="name">{{member.name}}</span>
-          <ul class="links">
-            {% for link in member.links %}
-              <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </li>
+      {% unless member.advisor %}
+        <li>
+          {% include team-member.html member=member %}
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Advisors</h2>
+  <ul class="team">
+    {% for entry in site.data.team %}
+      {% assign member=entry[1] %}
+      {% if member.advisor %}
+        <li>
+          {% include team-member.html member=member %}
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </section>
