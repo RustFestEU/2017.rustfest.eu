@@ -46,8 +46,12 @@ We will give more details once CFP opens.
 
 - Free conference ticket
 - Accommodation
+- Speakers Dinner
 - We will attempt to cover travel costs, people in need first
 
+### Tickets
+
+The ticket is included if you are presenting, of course. However, for everyone else who applied we will reserve a batch of tickets at the lowest regular price (89€) for a limited time after. So don't worry about not getting a ticket if you are not accepted!
 
 <p>
   <a class="cfp-button button primary" href="https://cfp.rustfest.eu">Submit proposal now</a>
