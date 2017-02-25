@@ -9,7 +9,7 @@ title: Sponsoring
     <h1>Sponsors</h1>
     <hr />
     <p>
-      RustConf wouldn't be possible without the generous support of these fine folks:
+      RustFest wouldn't be possible without the generous support of these fine folks:
     </p>
       <ul class="primary">
         {% for sponsor in site.data.sponsors %}
