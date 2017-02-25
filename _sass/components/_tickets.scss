@@ -1,7 +1,7 @@
 .tickets {
   @include display(flex);
   @include align-items(center);
-  @include justify-content(center);
+  @include justify-content(space-between);
   @include flex-direction(column);
   @include flex-wrap(nowrap);
 
@@ -19,6 +19,10 @@
     position: relative;
     overflow: hidden;
     margin-top: 5px;
+
+    &:not(:first-child) {
+      margin-left: 3px;
+    }
 
     .ribbon {
       position: absolute;

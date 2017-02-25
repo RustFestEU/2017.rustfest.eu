@@ -1,6 +1,7 @@
 .hero {
   @include linear-gradient(to bottom, transparentize($brand_blue, .3), $brand_purple);
   color: white;
+  position: relative;
   padding: {
     top: 2em;
     bottom: 2em;
