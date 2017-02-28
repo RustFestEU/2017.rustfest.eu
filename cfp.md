@@ -5,7 +5,7 @@ title: Call for Proposals
 ---
 
 
-We're opening a total of **10-12 speaker slots**. Talks are 30 minutes long, including Q&A.
+We're opening a total of **10-12 speaker slots**. Talks are either 15, 30 or 45 minutes long, including Q&A.
 
 Rust is a new language so all papers are welcome. If you have been working on something for only 6 months, but it's interesting, then apply!
 
@@ -13,13 +13,13 @@ Rust is a new language so all papers are welcome. If you have been working on so
 
 Read the [Submission Guide](https://cfp.rustfest.eu/guide) and submit.
 
-In the first instance our CFP selection process is based only on title and abstract.
+In the first instance our CFP selection process is based only on title and abstract. To ensure we don't follow our own biases, if someone knows the author behind a specifical proposal, they'll recuse themselves from judging that one in the first instance.
 
 ## Mentorship
 
 Rustfest has a Mentorship program. You will have a mentor assigned to you for your talk. See our [Mentorship Guide](https://cfp.rustfest.eu/mentorship) for details. To register as a mentor, just sign up and tick the box in your profile.
 
-## Ideas
+## Some ideas
 
 Check out this [Rust Community Talks repository](https://github.com/rust-community/talks) for inspiration.  Aside from looking at what other people have requested, here are some ideas:
 
@@ -52,6 +52,10 @@ We will give more details once CFP opens.
 ### Tickets
 
 The ticket is included if you are presenting, of course. However, for everyone else who applied we will reserve a batch of tickets at the lowest regular price (89€) for a limited time after. So don't worry about not getting a ticket if you are not accepted!
+
+## Still unsure?
+
+Have ideas but aren't clear if they'd fit, or want some help with your proposal before submitting, please email us at <speaking-support@rustfest.eu> and we'll happily provide feedback and support where we can!
 
 <p>
   <a class="cfp-button button primary" href="https://cfp.rustfest.eu">Submit proposal now</a>
