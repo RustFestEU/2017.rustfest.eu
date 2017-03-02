@@ -2,5 +2,7 @@
   link: "http://blog.rustfest.eu/"
 - title: "Call for Proposals"
   link: "/cfp/"
+- title: "Location"
+  link: "/location/"
 - title: "2016"
   link: "http://2016.rustfest.eu/"

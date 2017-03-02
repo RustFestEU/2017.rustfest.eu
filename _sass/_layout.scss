@@ -25,6 +25,10 @@
   color: $brand_dark_blue;
 }
 
+section ol {
+  margin: 1em 2em;
+  list-style-type: number;
+}
 
 // and other specifics
 .hero {
