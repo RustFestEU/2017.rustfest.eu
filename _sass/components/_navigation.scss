@@ -103,21 +103,9 @@ header.navigation {
 
 .with-hero header.navigation {
   @include wide-device {
-    background-color: transparent;
+    background-color: transparentize($brand_dark_blue, 0.5);
     border-bottom: none;
     position: absolute;
     transition: background-color 0.5s ease;
-
-    nav {
-      opacity: 0;
-      transition: opacity 0.25s ease;
-    }
-
-    &:hover {
-      background-color: transparentize($brand_dark_blue, 0.5);
-      nav {
-        opacity: 1;
-      }
-    }
   }
 }
