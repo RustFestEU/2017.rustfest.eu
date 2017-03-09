@@ -27,7 +27,7 @@ Some of these 50,000 developers write Rust. For example, [one of the companies h
 
 Kyiv has two international airports (IEV and KBP), with a few low-cost airlines servicing the city, including WizAir, Norwegian, AirBaltic, Turkish Airlines, etc. There are non-stop flights from NYC, too.
 
-For our guests from neighbouring countries train may be a more convenient and more affordable alternative. There are overnight trains from Bratislava, Warsaw, Saint-Petersberg, Moskow, Minsk, Belgrade, some of them offer discounts for students and young adults if booked in advance.
+For our guests from neighbouring countries train may be a more convenient and more affordable alternative. There are overnight trains from Bratislava, Warsaw, Saint-Petersburg, Moscow, Minsk, Belgrade, some of them offer discounts for students and young adults if booked in advance.
 
 ### Visa
 
