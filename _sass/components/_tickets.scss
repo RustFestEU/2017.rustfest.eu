@@ -58,7 +58,7 @@
       padding: 1.5em;
       position: relative;
       &::after {
-        content: "€";
+        content: "\20ac"; /* Euro sign */
         font-size: 0.65em;
         opacity: 0.45;
       }
