@@ -51,7 +51,7 @@ All airports have their own official taxi line, and getting to the city center c
 
 ## Staying in Kyiv
 
-First things first: Internet :) You don't need a passport to get a local SIM card. Most tarifs are prepaid without a subscription fee. If you plan to stay in the city for a few days it may be very convenient to get a local SIM and use 3G freely. Almost all public WiFi access points are password protected. Visit a cafe or a restaurant and ask the staff for a password.
+First things first: Internet :) You don't need a passport to get a local SIM card. Most tariffs are prepaid without a subscription fee. If you plan to stay in the city for a few days it may be very convenient to get a local SIM and use 3G freely. Almost all public WiFi access points are password protected. Visit a cafe or a restaurant and ask the staff for a password.
 
 Also, all cafes and restaurants are legally obliged to let you in and use their facilities if you have urgent needs. You don't have to order anything, just ask them to use the toilet.
 
