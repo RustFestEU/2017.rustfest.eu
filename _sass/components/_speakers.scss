@@ -32,6 +32,7 @@
     display: inline-block;
     margin: 2em 1em;
     box-shadow: 0 2px 4px darken($base-background-color, 10%);
+    max-width: 500px;
 
 
     .portrait {

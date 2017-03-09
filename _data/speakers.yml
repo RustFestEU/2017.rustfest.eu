@@ -1,0 +1,15 @@
+manish:
+  featured: true
+  name: "Manish Goregaokar"
+  nick: "manishearth"
+  thumbnailUrl: "manish.png"
+  links:
+    - icon: "github"
+      title: "manishearth"
+      url:  "https://github.com/Manishearth"
+    - icon: "twitter"
+      title: "manishearth"
+      url: "https://twitter.com/manishearth"
+emily:
+  featured: false
+  name: "Emily Dunham"
