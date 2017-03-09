@@ -10,6 +10,9 @@
   }
 
 
+  /* Remove default padding from the <ul> */
+  padding: 0;
+
 
   > li {
     display: block;
@@ -61,6 +64,12 @@
       }
     }
 
+    /* Add button highlights on hover/focus */
+    > a:active h4,
+    > a:focus h4,
+    > a:hover h4 {
+      background: #09D4B0;
+    }
 
     &.hl {
       border-color: $brand_blue;
@@ -81,6 +90,30 @@
 
     &.unavailable {
       opacity: 0.56;
+    }
+
+    /* Make full-width and fix some smallscreen issues */
+    @media (max-width: 600px) {
+      width: 100%;
+
+      /* No need for the extra border */
+      &:not(:first-child) {
+        margin-left: 0;
+      }
+
+      /* Reduce unneeded negative space */
+      .price {
+        padding: .25em;
+      }
+      .smallprint {
+        margin-top: 0;
+      }
+
+      /* Fix title wrapping */
+      .hl h3 {
+        white-space: nowrap;
+        padding: .5em;
+      }
     }
   }
 }
