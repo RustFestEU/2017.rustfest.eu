@@ -131,7 +131,7 @@ bodytags: with-hero
               <span class="name">{{speaker.name}}</span>
               <ul class="links">
                 {% for link in speaker.links %}
-                  <li><a href="{{link.url}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
+                  <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
                 {% endfor %}
               </ul>
             </div>
