@@ -6,10 +6,10 @@ manish:
   links:
     - icon: "github"
       title: "manishearth"
-      url:  "https://github.com/Manishearth"
+      link:  "https://github.com/Manishearth"
     - icon: "twitter"
       title: "manishearth"
-      url: "https://twitter.com/manishearth"
+      link: "https://twitter.com/manishearth"
 emily:
   featured: false
   name: "Emily Dunham"
