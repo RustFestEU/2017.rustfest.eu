@@ -67,4 +67,12 @@ There are a few things to look out for during your stay in Kyiv.
  2. People often beg for money on the streets, especially near the metro stations. Avoid giving them anything, the money you give almost always get to wrong hands.
  3. Pickpocketing is not widespread, but still present. Good rules of thumb apply. Don't keep your wallet easily accessible, don't keep the documents or any valuable items in your bag pockets - keep them either on you or in the main compartment which is harder to access. When in public transport take off your backpack. The good idea is to keep your earbuds plugged into your phone and play something quiet to your ear: when the music stops your phone may be in danger. When talking to strangers on the street, take a look around.
 
+## A note on languages
+
+Ukrainian is the official language in the country, all street signs, announcements in public transport, etc. are in Ukrainian (though announcemnts in metro are often doubled in English.). Each metro car has a route scheme in Ukrainian and English. Metro station names are lengthy! You may write down the ones you need. The station where the conference takes place is Shuliavska, or Шулявська - the only station on Red line that starts with letter Ш.
+
+Many younger people - 20 to 30 years old - speak English. Restaurants personnell usually speak rudimentary English, enoght to describe the food or give you helpful directions. If you lost, try checking a nearby caffe and ask people for help.
+
+Both Ukrainian and Russian are widely spoken in Kyiv. If you talk to people in Russian, they often can switch to it to answer you. However, you shouldn't assume that absolutely everybody can speak Russian. A significant portion of Ukrainians live in the environemnet where no one speaks Russian, so they can easily read and understand it, but can't make up sentences and pronounce words correctly. Also, Russian as spoken in Ukraine is different from the one spoken in some parts Russia, and this means people may have difficulty understanding what you say. Be patient, repeat your words slowly, ask someone else to assist your conversation, or switch to English if necessary. Be kind and friendly, and you both will get alone pretty well!
+
 </section>
