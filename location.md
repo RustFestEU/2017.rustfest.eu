@@ -63,9 +63,8 @@ AirBnB is a thing, though many hosts do not speak English, so plan in advance.
 
 There are a few things to look out for during your stay in Kyiv.
 
- 1. There's a custom to park the cars on wide sidewalks in the city center. Cars often move very slowly on a sidewalk to find a parking spot. As a pedestrian you're expected to try to give them way unless there's no way for you to move to let them pass you by. Don't freak out about it.
- 2. People often beg for money on the streets, especially near the metro stations. Avoid giving them anything. These people are supervised and give away cut of their earnings to criminal organizations. When you give money to a beggar you support the organized crime. **Please, don't.**
- 3. Pickpocketing is not on Barcelona level, but still relatively common. Good rules of thumb apply. Don't keep your wallet easily accessible, don't keep the documents or any valuable items in your bag pockets - keep them either on you or in the main compartment which is harder to access. When in public transport take off your backpack. A good idea is to keep your earbuds plugged into your phone and play something quiet to your ear: when the music stops your phone may be in danger.
- 4. Avoid talking to strangers on a street when they approach you. They will either ask for money or directions. In the later case you as a visitor is clearly the worst person to help out them. So, just go straight and ignore them. We know, it seems rude but it's a safe option.
+ 1. There's a custom to park the cars on wide sidewalks in the city center. Cars often move very slowly on a sidewalk to find a parking spot. As a pedestrian, you're expected to try to give them way unless there's no way for you to move to let them pass. Don't freak out about it.
+ 2. People often beg for money on the streets, especially near the metro stations. Avoid giving them anything, the money you give almost always get to wrong hands.
+ 3. Pickpocketing is not widespread, but still present. Good rules of thumb apply. Don't keep your wallet easily accessible, don't keep the documents or any valuable items in your bag pockets - keep them either on you or in the main compartment which is harder to access. When in public transport take off your backpack. The good idea is to keep your earbuds plugged into your phone and play something quiet to your ear: when the music stops your phone may be in danger. When talking to strangers on the street, take a look around.
 
 </section>
