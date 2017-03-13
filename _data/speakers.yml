@@ -10,6 +10,15 @@ manish:
     - icon: "twitter"
       title: "manishearth"
       link: "https://twitter.com/manishearth"
-emily:
-  featured: false
-  name: "Emily Dunham"
+edunham:
+  featured: true
+  name: "E Dunham"
+  nick: "edunham"
+  thumbnailUrl: "edunham.jpg"
+  links:
+    - icon: "github"
+      title: "manishearth"
+      link:  "https://github.com/edunham"
+    - icon: "twitter"
+      title: "manishearth"
+      link: "https://twitter.com/qedunham"
