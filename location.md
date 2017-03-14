@@ -19,13 +19,13 @@ permalink: /location/
 
 ## People Who Code in Kyiv
 
-About 50,000 software developers call Kyiv home. The developer scene is vibrant, with many large and small events happening throughout the year. In fact, pick any day, and somewhere there's a conference, or a meetup, or a hackathon. Many events like [JEEConf](http://jeeconf.com/), [RubyC](http://rubyc.eu/), [BuildStuff](http://buildstuff.lt/), [XPDays](http://xpdays.com.ua/), etc. attract many international speakers and attendees (with 70-100% of talks done in English). The audience is very receptive to foreign guests, and English becomes the primary language for some local meetups like [KyivJS](http://kyivjs.org/en/). When you come to RustFest you too will be very welcome!
+About 50,000 software developers call Kyiv home. The developer scene is vibrant, with many large and small events happening throughout the year. In fact, pick any day, and somewhere there's a conference, or a meetup, or a hackathon. Many events like [JEEConf](http://jeeconf.com/), [RubyC](http://rubyc.eu/), [BuildStuff](http://buildstuff.lt/), [XPDays](http://xpdays.com.ua/), to name a few, attract many international speakers and attendees (with 70-100% of talks done in English). The audience is very receptive to foreign guests, and English becomes the primary language for some local meetups like [KyivJS](http://kyivjs.org/en/). When you come to RustFest you too will be very welcome!
 
 Some of these 50,000 developers write Rust. For example, [one of the companies here](https://evo.company/en/) uses Rust to automate their datacenter infrastructure to power 20% of all e-commerсe websites in the country. A few other develop products using Rust, too. Rust has been finding its way into blockchain, mobile development, games, and server-side components. Interest in the language grows all the time!
 
 ## Getting to Kyiv
 
-Kyiv has two international airports (IEV and KBP), with a few low-cost airlines servicing the city, including WizAir, Norwegian, AirBaltic, Turkish Airlines, etc. There are non-stop flights from NYC, too.
+Kyiv has two international airports (IEV and KBP), with a few low-cost airlines servicing the city, including WizAir, Norwegian, AirBaltic, and Turkish Airlines. There are non-stop flights from NYC, too.
 
 For our guests from neighbouring countries train may be a more convenient and more affordable alternative. There are overnight trains from Bratislava, Warsaw, Saint-Petersburg, Moscow, Minsk, Belgrade, some of them offer discounts for students and young adults if booked in advance.
 
@@ -57,22 +57,22 @@ Also, all cafes and restaurants are legally obliged to let you in and use their 
 
 Food is affordable and often pretty good. In fact, if you're a fan of Georgian, Turkish, Mediterranian, or Slavic cuisine, Kyiv is your best bet. 
 
-Hotels are cheap, the quality of service varies of course but pretty good in general. Hostels are incredibly widespread, but often located in the historical area with entrances in very unexpected places. You may get into a situation when neither you nor your driver has a clue how to get in. Keep the phone numbers for your place handy.
+Hotels are affordable, the quality of service varies of course but pretty good in general. Hostels are incredibly widespread, but often located in the historical area with entrances in very unexpected places. You may get into a situation when neither you nor your driver has a clue how to get in. Keep the phone numbers for your place handy.
 
 AirBnB is a thing, though many hosts do not speak English, so plan in advance.
 
 There are a few things to look out for during your stay in Kyiv.
 
- 1. There's a custom to park the cars on wide sidewalks in the city center. Cars often move very slowly on a sidewalk to find a parking spot. As a pedestrian, you're expected to try to give them way unless there's no way for you to move to let them pass. Don't freak out about it.
+ 1. There's a custom to park the cars on wide sidewalks in the city center. Cars often move very slowly on a sidewalk to find a parking spot. As a pedestrian, you're expected to try to give them way unless there's no way for you to move to let them pass. Don't let that bother you.
  2. People often beg for money on the streets, especially near the metro stations. Avoid giving them anything, the money you give almost always get to wrong hands.
  3. Pickpocketing is not widespread, but still present. Good rules of thumb apply. Don't keep your wallet easily accessible, don't keep the documents or any valuable items in your bag pockets - keep them either on you or in the main compartment which is harder to access. When in public transport take off your backpack. The good idea is to keep your earbuds plugged into your phone and play something quiet to your ear: when the music stops your phone may be in danger. When talking to strangers on the street, take a look around.
 
 ## A note on languages
 
-Ukrainian is the official language in the country, all street signs, announcements in public transport, etc. are in Ukrainian (though announcemnts in metro are often doubled in English.). Each metro car has a route scheme in Ukrainian and English. Metro station names are lengthy! You may write down the ones you need. The station where the conference takes place is Shuliavska, or Шулявська - the only station on Red line that starts with letter Ш.
+Ukrainian is the official language in the country. All street signs, announcements in public transport, and so on, are in Ukrainian (though announcemnts in metro are often doubled in English.). Each metro car has a route scheme in Ukrainian and English. Metro station names are lengthy! You may write down the ones you need. The station where the conference takes place is Shuliavska, or Шулявська - the only station on Red line that starts with letter Ш.
 
-Many younger people - 20 to 30 years old - speak English. Restaurants personnell usually speak rudimentary English, enoght to describe the food or give you helpful directions. If you lost, try checking a nearby caffe and ask people for help.
+Many younger people - 20 to 30 years old - speak English. Restaurants personnell usually speak rudimentary English, enough to describe the food or give you helpful directions. If you get lost, try checking a nearby cafe and ask people for help.
 
-Both Ukrainian and Russian are widely spoken in Kyiv. If you talk to people in Russian, they often can switch to it to answer you. However, you shouldn't assume that absolutely everybody can speak Russian. A significant portion of Ukrainians live in the environment where no one speaks Russian, so they can easily read and understand it, but can't make up sentences and pronounce words correctly. Also, Russian as spoken in Ukraine is different from the one spoken in some parts Russia, and this means people may have difficulty understanding what you say. Be patient, repeat your words slowly, ask someone else to assist your conversation, or switch to English if necessary. Be kind and friendly, and you both will get alone pretty well!
+Both Ukrainian and Russian are widely spoken in Kyiv. If you talk to people in Russian, they often can switch to it to answer you. However, you shouldn't assume that absolutely everybody can speak Russian. A significant portion of Ukrainians live in the environment where no one speaks Russian, so they can easily read and understand it, but can't make up sentences and pronounce words correctly. Also, Russian as spoken in Ukraine is different from the one spoken in some parts Russia, and this means people may have difficulty understanding what you say. Be patient, repeat your words slowly, ask someone else to assist your conversation, or switch to English if necessary. Be kind and friendly, and you both will get along pretty well!
 
 </section>
