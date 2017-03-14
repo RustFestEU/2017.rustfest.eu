@@ -9,7 +9,7 @@ permalink: /location/
     <h1>Next stop: Kyiv</h1>
 
 
-<p>Kyiv is a wonderful place! The city is very old with some parts dating back to 5th century CE. For a long time it was a cultural and political center of Eastern Europe, the birthplace of the modern Ukrainian, Russian, and Belarussian culture. Over centuries the city changed hands between Lithuania, Poland, and Russian Empire, and their influences created a unique mixture of architectural and artistic styles.</p>
+<p>Kyiv is a wonderful place! The city is very old with some parts dating back to 5th century CE. For a long time it was a cultural and political center of Eastern Europe, the birthplace of the modern Ukrainian, Russian, and Belarusian culture. Over centuries the city changed hands between Lithuania, Poland, and Russian Empire, and their influences created a unique mixture of architectural and artistic styles.</p>
 
 <p>Today, Kyiv is a vibrant city home to around 3 million people. It hosted the UEFA Euro 2012 final. It will also host the Eurovision Song Contest, and Dota2 Final Season Major this year.</p>
   </section>
@@ -27,7 +27,7 @@ Some of these 50,000 developers write Rust. For example, [one of the companies h
 
 Kyiv has two international airports (IEV and KBP), with a few low-cost airlines servicing the city, including WizAir, Norwegian, AirBaltic, and Turkish Airlines. There are non-stop flights from NYC, too.
 
-For our guests from neighbouring countries train may be a more convenient and more affordable alternative. There are overnight trains from Bratislava, Warsaw, Saint-Petersburg, Moscow, Minsk, Belgrade, some of them offer discounts for students and young adults if booked in advance.
+For our guests from neighboring countries train may be a more convenient and more affordable alternative. There are overnight trains from Bratislava, Warsaw, Saint-Petersburg, Moscow, Minsk, Belgrade, some of them offer discounts for students and young adults if booked in advance.
 
 ### Visa
 
@@ -55,7 +55,7 @@ First things first: Internet :) You don't need a passport to get a local SIM car
 
 Also, all cafes and restaurants are legally obliged to let you in and use their facilities if you have urgent needs. You don't have to order anything, just ask them to use the toilet.
 
-Food is affordable and often pretty good. In fact, if you're a fan of Georgian, Turkish, Mediterranian, or Slavic cuisine, Kyiv is your best bet. 
+Food is affordable and often pretty good. In fact, if you're a fan of Georgian, Turkish, Mediterranean, or Slavic cuisine, Kyiv is your best bet. 
 
 Hotels are affordable, the quality of service varies of course but pretty good in general. Hostels are incredibly widespread, but often located in the historical area with entrances in very unexpected places. You may get into a situation when neither you nor your driver has a clue how to get in. Keep the phone numbers for your place handy.
 
@@ -69,9 +69,9 @@ There are a few things to look out for during your stay in Kyiv.
 
 ## A note on languages
 
-Ukrainian is the official language in the country. All street signs, announcements in public transport, and so on, are in Ukrainian (though announcemnts in metro are often doubled in English.). Each metro car has a route scheme in Ukrainian and English. Metro station names are lengthy! You may write down the ones you need. The station where the conference takes place is Shuliavska, or Шулявська - the only station on Red line that starts with letter Ш.
+Ukrainian is the official language in the country. All street signs, announcements in public transport, and so on, are in Ukrainian (though announcements in metro are often doubled in English). Each metro car has a route scheme in Ukrainian and English. Metro station names are lengthy! You may write down the ones you need. The station where the conference takes place is Shuliavska, or Шулявська – the only station on Red line that starts with letter Ш.
 
-Many younger people - 20 to 30 years old - speak English. Restaurants personnell usually speak rudimentary English, enough to describe the food or give you helpful directions. If you get lost, try checking a nearby cafe and ask people for help.
+Many young people – 20 to 30 years old – speak English. Restaurant personnel usually speak rudimentary English, enough to describe the food or give you helpful directions. If you get lost, try checking a nearby café and ask people for help.
 
 Both Ukrainian and Russian are widely spoken in Kyiv. If you talk to people in Russian, they often can switch to it to answer you. However, you shouldn't assume that absolutely everybody can speak Russian. A significant portion of Ukrainians live in the environment where no one speaks Russian, so they can easily read and understand it, but can't make up sentences and pronounce words correctly. Also, Russian as spoken in Ukraine is different from the one spoken in some parts Russia, and this means people may have difficulty understanding what you say. Be patient, repeat your words slowly, ask someone else to assist your conversation, or switch to English if necessary. Be kind and friendly, and you both will get along pretty well!
 
