@@ -10,6 +10,9 @@ manish:
     - icon: "twitter"
       title: "manishearth"
       link: "https://twitter.com/manishearth"
+    - icon: "website"
+      title: "manishearth.github.io"
+      link: "http://manishearth.github.io/"
 edunham:
   featured: true
   name: "E Dunham"
@@ -22,3 +25,148 @@ edunham:
     - icon: "twitter"
       title: "manishearth"
       link: "https://twitter.com/qedunham"
+paul:
+  name: Paul Colomiets
+  thumbnailUrl: "paul.jpg"
+  featured: true
+  desc: " I have coded in python for 10 years. I'm now coding mostly in Rust. I'm obsessive about asynchronous code and microservice-based architecture. For my day job, I'm building containerization and orchestration systems for evo.company. "
+  links:
+    - icon: github
+      title: tailhook
+      link: "https://github.com/tailhook"
+    - icon: twitter
+      title: PaulColomiets
+      link: "https//twitter.com/PaulColomiets"
+    # - icon: website
+    #   link: 
+pascal:
+  name: Pascal Hertleif
+  featured: true
+  thumbnailUrl: "killercup.jpg"
+  desc: "Pascal Hertleif has been working as software developer for seven years and is active in the Rust community since 2014. He is the author of multiple open source libraries and co-organizer of Rust Cologne. Currently, he is studying computer science at the university of Bonn, Germany, and is employed by a local company as Senior Frontend Developer."
+  links:
+    - icon: github
+      title: killercup
+      link: "https://github.com/killercup"
+    - icon: twitter
+      title: killercup
+      link: "https//twitter.com/killercup"
+    # - icon: website
+    #   link: 
+maciej:
+  name: Maciej Dziardziel
+  thumbnailUrl: "maciej.jpg"
+  links:
+    - icon: github
+      title: Fiedzia
+      link: "https://github.com/Fiedzia"
+    # - icon: website
+    #   link: 
+      
+lislis:
+  name: lislis
+  thumbnailUrl: "lislis.jpg"
+  desc: "Lisa is a web developer working at Travis CI. She is involved with the Berlin Rails Girls and Clojure Bridge chapters as either coach or organizer. She enjoys making games for fun and as means of learning."
+  links:
+    - icon: github
+      title: lislis
+      link: "https://github.com/lislis"
+    - icon: website
+      link: "https://lislis.de/"
+ingvar:
+  name: Ingvar Stepanyan
+  thumbnailUrl: "ingvar.jpg"
+  desc: " Obsessed D2D programmer (parsers, compilers, tools & specs), speaker and performance engineer. Currently speeding code up on the fly at Cloudflare."
+  links:
+    - icon: github
+      title: RReverser
+      link: "https://github.com/RReverser"
+    # - icon: website
+      # link: 
+geof:
+  name: Geoffroy Couprie
+  thumbnailUrl: "geof.png"
+  desc: " Geoffroy handles security and quality assurance at Clever Cloud, develops in Rust and researches on parser security at VideoLAN. He thinks a lot about cryptography, protocol design and data management."
+  links:
+    - icon: github
+      title: Geal
+      link: "https://github.com/Geal"
+    - icon: website
+      link: "http://geoffroycouprie.com/"
+ashley:
+  name: ashley williams
+  thumbnailUrl: "ashley.jpg"
+  desc: "Ashley Williams wears a lot of hats, both literally and professionally. They are currently a services engineer at npm, Inc, the package manager for JavaScript and the Node.js ecosystem. They also represent the Individual Membership on the Node.js Foundation Board of Directors. Previously a backend and services engineer at Mozilla, and a web engineer and educator at Bocoup, Ashley has a long history of designing, developing, and teaching systems and systems architecture."
+  links:
+    - icon: github
+      title: ashleygwilliams
+      link: "https://github.com/ashleygwilliams"
+    - icon: twitter
+      title: ag_dubs
+      link: "https//twitter.com/ag_dubs"
+     # - icon: website
+      # link: 
+pe_meunier:
+  name: Pierre-Étienne Meunier
+  thumbnailUrl: "pe_meunier.jpg"
+  links:
+    - icon: github
+      title: 
+      link: "https://github.com/"
+    - icon: twitter
+      title: pe_meunier
+      link: "https//twitter.com/pe_meunier"
+    # - icon: website
+      # link: 
+sebastian:
+  name: Sebastian Dröge
+  thumbnailUrl: "slomo.jpg"
+  desc: " Sebastian is a Free Software developer and one of the GStreamer maintainers and core developers. He has been involved with the project since more than 10 years now. He also contributes to various other Free Software projects, like Debian, GNOME and WebKit. While finishing his degree in computer sciences at the University of Paderborn in Germany, he started working as a contractor for GStreamer and related technologies. Nowadays Sebastian lives in Greece and is working at Centricular, a company providing consultancy services around GStreamer and Free Software in general. Apart from multimedia related topics, Sebastian has an interest in digital signal processing, programming languages, machine learning, network protocols and distributed systems."
+  links:
+    - icon: github
+      title: sdroege
+      link: "https://github.com/sdroege"
+    - icon: twitter
+      title: sdroege_
+      link: "https//twitter.com/sdroege_"
+    # - icon: website
+      # link: 
+luis:
+  name: "Luis de Bethencourt"
+  thumbnailUrl: "luisbg.jpg"
+  desc: "Luis de Bethencourt is a freedom-loving technocrat, who currently works
+for Samsung's Open Source Group in London. He has always enjoyed
+programming and playing around with video, so since he discovered
+GStreamer 7 years ago he's been hooked. Originally from the Canary
+Islands, computers felt like a door to the world. Luis saw open source
+software as the best way to enter the innovative technology community,
+see how it all works, and become a part of it. He enjoys being in front
+of the screen, behind the screen, Friday beers, Sunday ice-creams,
+walks in the park, and people who read bios to the end."
+
+fletcher:
+  name: Fletcher Nichol
+  thumbnailUrl: "fletcher.jpg"
+  desc: " Fletcher Nichol is a software developer from Edmonton, Canada who has worked in jobs ranging from systems administrator to web application developer. He spends far too much time writing open source software and far too little time playing the drums. He is active in many automation and testing projects such as [Chef](https://github.com/chef/chef), [Test Kitchen](http://kitchen.ci/) and is a core developer of [Habitat](https://www.habitat.sh/) which is largely written in Rust. Fletcher works for Chef Software Inc, an automation company for speed and awesomeness."
+  links:
+    - icon: github
+      title: fnichol
+      link: "https://github.com/fnichol"
+    - icon: twitter
+      title: fnichol
+      link: "https//twitter.com/fnichol"
+    # - icon: website
+      # link: 
+liz:
+  name: Liz Baillie
+  thumbnailUrl: "liz.jpg"
+  desc: "Liz is currently wrangling the JavaScripts and herding the Rubies as an engineer at Tilde. Previously, she spent many years drawing comic books to a limited but enthusiastic audience. She is just getting started at contributing to open source projects and is already addicted. Please send help (don't actually send help)."
+  links:
+    - icon: github
+      title: lbaillie
+      link: "https://github.com/lbaillie"
+    - icon: twitter
+      title: _lbaillie
+      link: "https//twitter.com/_lbaillie"
+    # - icon: website
+    #   link: 

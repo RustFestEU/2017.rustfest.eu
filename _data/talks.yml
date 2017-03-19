@@ -1,0 +1,94 @@
+- by: liz
+  title: "The Illustrated Adventure Survival Guide for New Rustaceans"
+  desc: "Programming is an adventure, often more harrowing than it has to be. If you're more used to higher-level languages like Ruby or JavaScript, learning Rust can feel like an impossible journey that leaves you wishing for a well-written and heavily illustrated field guide.
+
+
+Good news! I have already gone down this road and am now prepared to share my adventure with you. Luckily, I was able to capture much of the flora and fauna of Rustlandia with my primitive pictorial devices (paper and pen)."
+  public: false
+- by: fletcher
+  title: "Taking Rust to Production: Lessons Learned From the Habitat Project"
+  desc: "The Rust language is more than ready for production--it excels at it! The [Habitat](https://www.habitat.sh/) project team has been using Rust for a year in public and an extra year in stealth. With over 40,000 lines of Rust code so far, we maintain multiple CLI applications, a cross-platform process supervisor, a gossip subsystem, and a micro service-oriented distributed build system.
+
+
+In this talk we will cover some of the challenges that Rust is uniquely qualified to address including static compilation, inlining dependencies, using clap for CLI parsing, pragmatically using native C libraries, maintaining a common codebase for Linux, Mac, and Windows, and on-boarding new Rustaceans. Have no fear: there has never been a better time to use Rust for your next service, application, or tool!"
+  public: false
+- speakers: 
+  - luis
+  - sebastian
+  title: "GStreamer & Rust – A perfect match"
+  desc: "GStreamer is a highly versatile, cross-platform, plugin-based multimedia framework that caters to the whole range of multimedia needs. It can be used basically everywhere, from embedded devices like phones, TVs or drones to desktop applications or on huge server farms.
+
+
+In this talk we will discuss how Rust is the perfect match for GStreamer to evolve from its C roots and safely enter the future. Be it for application development on top of GStreamer or for the development of plugins, where the actual media processing is happening. We will give an overview of the current status of getting Rust and GStreamer working together, our experience with Rust so far, what problems we ran into and what is already possible today. In the end we will give an outline of our ideas how to evolve from here, what the next steps are on the way to world domination.
+
+
+And who knows, maybe in the future we will have a GStreamer completely written in Rust?"
+  public: false
+- by: pe_meunier
+  title: "Building SSH servers in minutes"
+  desc: "Thrussh is an SSH library for writing both clients and servers. It grew out of the need for a specialised SSH server, with very limited default permissions.
+
+
+Thrussh uses Tokio, which allows it to be combined with other protocols easily, and asynchronously.
+Current projects using it include nest.pijul.com (not yet fully public, sorry), where SSH is used to push and pull Pijul patches to repositories hosted there, and authentication is just a matter of checking a public key in an PostgreSQL database.
+
+
+Now, why would anyone want to write such a library? Well, I'll try to show why Rust convinced me that this was a good idea:
+
+    - easy code reviews and collaboration (newcomers are not very likely to break stuff when trying, as opposed to C).
+
+    - limited time required to build efficient stuff.
+
+    - forced pattern matching and types everywhere: it might walk like an encrypted connection and quack like an encrypted connection, yet be a standard one.
+
+    - forward-compatibility with the ecosystem: this code transitioned from one backend for asynchronous IO to another, more high-level one. The transition to a first working version took only a few hours.
+"
+  public: false
+- by: ashley
+  title: "How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!"
+  desc: "I made one of my favorite pull requests ever on December 17, 2016:
+
+
+```rust-www/pulls/634: add npm to friends page```
+
+
+On any given day, the npm registry, a repository of packages primarily for JavaScript and Node.js, serves around 350,000,000 package downloads. The npm services team is small: 5 engineers, 2 managers, and a CTO. This once little Node.js service, the lifeblood of the modern web development workflow, is now a huge set of microservices- and starting in late 2016, it's no longer just Node.js- it's running production Rust.
+
+
+In this talk, I'll tell the story of how I convinced my manager and team to set aside the comfort of a language they had been programming in for years and to give Rust a chance. Along the way, I'll talk about the critical challenges that the npm registry services encounter on a daily basis, the patterns we've adopted to cope with the heavy operational load, and how they are well suited to be solved with Rust. I'll also highlight the unique aspects of Rust that make it an pleasure to learn and teach, as well as how it is a strong technical candidate for replacing Node.js (hint: Tokio!).
+
+
+At the end of the talk, you will have a keen understanding of what problems Rust is good at solving and feel motivated and empowered to start the conversation about bringing Rust into your own organization."
+  public: false
+- by: geof
+  title: "Sōzu, a hot reconfigurable reverse HTTP proxy"
+  desc: "Could you write a Rust program that never, ever has to stop? Not even for configuration changes or binary upgrades? One that will handle the traffic for thousands of applications on many more virtual machines that get up and down at any time?
+The Sōzu HTTP reverse proxy is there to solve that problem. This talk will cover various parts of its architecture, from its streaming HTTP parser built with nom, its single-threaded worker handling events with mio, and all the associated tooling to command and control the proxy."
+  public: false
+- by: ingvar
+  title: "Interaction with real-world JavaScript from compiled Rust"
+  desc: "
+
+Rust recently got an official support for asm.js and WebAssembly targets.
+
+While many have already played with it, tried to build simple hello-worlds and check the browser/Node.js console for result, there is still no well-established solution for Rust to interact with DOM API, JavaScript libraries or Node.js built-ins.
+
+During the talk we will get a glimpse on how this can be done on the low-level, how to wrap common browser APIs into a nice Rust interface and how to interact with JavaScript objects without having a native GC support in Rust (yet)."
+  public: false
+- by: lislis
+  title: "Making a game in Rust"
+  desc: "When you're trying to learn a new programming language it makes sense to start with a small project. A lot of developers would write an API server or a Twitter bot.
+When I try to learn a new language I start by writing a game.
+Let me show you how I wrote my first game in Rust with Piston."
+  public: false
+- by: "paul"
+  title: "vagga -- containerization without daemons"
+  desc: "For some reason Docker today is a synonym for containers. The goal of this talk is to break that myth. Vagga is full-scale containerization for development environments which has much more features suited specifically for dev. envs, in a much smaller codebase. I'll try to explore both the essential features of vagga itself and how rust is specifically well suited for containers, including existing libraries."
+  public: true
+- by: "pascal"
+  public: true
+  title: "Writing Idiomatic Libraries in Rust"
+  desc: "The existence of libraries with nice, user-friendly interfaces is one of the most important factors when choosing a programming language. And while there are lots of books about how to write idiomatic libraries in other languages, finding the same information for Rust is more difficult. With this in mind, this talk will present several techniques that help developers take advantage of all that Rust has to offer and create idiomatic APIs: From implementing conversion traits and session types to using custom iterators and decorating built-in types."
+- by: 
+  title: 
+  desc: 

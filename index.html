@@ -128,18 +128,18 @@ bodytags: with-hero
               <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
             </div>
             <div class="info">
-              <span class="name">{{speaker.name}}</span>
+              <a href="/talks/#{{speaker.name|slugify}}"><span class="name">{{speaker.name}}</span></a>
               <ul class="links">
                 {% for link in speaker.links %}
                   <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
                 {% endfor %}
               </ul>
             </div>
-            {% if speaker.desc %}
+            <!-- {% if speaker.desc %}
               <div class="desc">
                 {{speaker.desc | markdownify | truncatewords: 50}}
               </div>
-            {% endif %}
+            {% endif %} -->
           </li>
         {% endif %}
       {% endfor %}

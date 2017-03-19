@@ -20,21 +20,43 @@ title: Talks
           <li>
             <h2 class="title" id="{{talk.title | slugify}}">{% if talk.special %}<span class="badge badge-{{talk.special}}">{{talk.special}}</span>{% endif %}{{talk.title}}</h2>
             <div class="wrap">
-              <div class="speaker">
-                <div class="portrait">
-                  <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
-                </div>
-                <div class="desc">
-                  <h3 class="name">{{speaker.name}}</h3>
-                  {{speaker.desc | markdownify }}
+              {% if speaker %}
+                <div id="{{speaker.name |slugify }}" class="speaker">
+                  <div class="portrait">
+                    <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
+                  </div>
+                  <div class="desc">
+                    <h3 class="name">{{speaker.name}}</h3>
+                    {{speaker.desc | markdownify }}
 
-                  <ul class="links">
-                    {% for link in speaker.links %}
-                      <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
-                    {% endfor %}
-                  </ul>
+                    <ul class="links">
+                      {% for link in speaker.links %}
+                        <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
+                      {% endfor %}
+                    </ul>
+                  </div>
                 </div>
-              </div>
+              {% else %}
+                {% for spk in talk.speakers %}
+                  {% assign speaker = site.data.speakers[spk] %}
+
+                    <div id="{{speaker.name |slugify  class="speaker">
+                      <div class="portrait">
+                        <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
+                      </div>
+                      <div class="desc">
+                        <h3 class="name">{{speaker.name}}</h3>
+                        {{speaker.desc | markdownify }}
+
+                        <ul class="links">
+                          {% for link in speaker.links %}
+                            <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
+                          {% endfor %}
+                        </ul>
+                      </div>
+                    </div>
+                  {% endfor %}
+              {% endif %}
               <div class="abstract">
                 {{talk.desc | markdownify}}
 
@@ -48,7 +70,7 @@ title: Talks
       {% endfor %}
     </ul>
   </section>
-  <section>
+  <!-- <section>
       <h3>Further on stage</h3>
         <ul class="talks">
           {% for spk in site.data.speakers %}
@@ -77,5 +99,5 @@ title: Talks
             {% endif %}
           {% endfor %}
         </ul>
-  </section>
+  </section> -->
 </div>
