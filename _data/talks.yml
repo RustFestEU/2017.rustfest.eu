@@ -43,7 +43,7 @@ Now, why would anyone want to write such a library? Well, I'll try to show why R
 
     - forward-compatibility with the ecosystem: this code transitioned from one backend for asynchronous IO to another, more high-level one. The transition to a first working version took only a few hours.
 "
-  public: false
+  public: true
 - by: ashley
   title: "How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!"
   desc: "I made one of my favorite pull requests ever on December 17, 2016:
@@ -64,7 +64,7 @@ At the end of the talk, you will have a keen understanding of what problems Rust
   title: "Sōzu, a hot reconfigurable reverse HTTP proxy"
   desc: "Could you write a Rust program that never, ever has to stop? Not even for configuration changes or binary upgrades? One that will handle the traffic for thousands of applications on many more virtual machines that get up and down at any time?
 The Sōzu HTTP reverse proxy is there to solve that problem. This talk will cover various parts of its architecture, from its streaming HTTP parser built with nom, its single-threaded worker handling events with mio, and all the associated tooling to command and control the proxy."
-  public: false
+  public: true
 - by: ingvar
   title: "Interaction with real-world JavaScript from compiled Rust"
   desc: "Rust recently got an official support for asm.js and WebAssembly targets.

@@ -81,7 +81,7 @@ maciej:
 lislis:
   name: lislis
   thumbnailUrl: "lislis.jpg"
-  featured: true
+  featured: false
   desc: "Lisa is a web developer working at Travis CI. She is involved with the Berlin Rails Girls and Clojure Bridge chapters as either coach or organizer. She enjoys making games for fun and as means of learning."
   links:
     - icon: rust
@@ -95,7 +95,7 @@ lislis:
 ingvar:
   name: Ingvar Stepanyan
   thumbnailUrl: "ingvar.jpg"
-  featured: true
+  featured: false
   desc: " Obsessed D2D programmer (parsers, compilers, tools & specs), speaker and performance engineer. Currently speeding code up on the fly at Cloudflare."
   links:
     - icon: github
@@ -109,6 +109,7 @@ ingvar:
 geof:
   name: Geoffroy Couprie
   thumbnailUrl: "geof.png"
+  featured: true
   desc: " Geoffroy handles security and quality assurance at Clever Cloud, develops in Rust and researches on parser security at VideoLAN. He thinks a lot about cryptography, protocol design and data management."
   links:
     - icon: rust
@@ -138,6 +139,7 @@ ashley:
 pe_meunier:
   name: Pierre-Étienne Meunier
   thumbnailUrl: "pe_meunier.jpg"
+  featured: true
   links:
     - icon: rust
       title: "pmeunier on users.rust-lang.org"
