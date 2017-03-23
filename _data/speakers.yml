@@ -1,5 +1,5 @@
 manish:
-  featured: true
+  featured: false
   name: "Manish Goregaokar"
   nick: "manishearth"
   thumbnailUrl: "manish.png"
@@ -17,7 +17,7 @@ manish:
       title: "manishearth.github.io"
       link: "http://manishearth.github.io/"
 edunham:
-  featured: true
+  featured: false
   name: "E Dunham"
   nick: "edunham"
   thumbnailUrl: "edunham.jpg"
@@ -109,7 +109,7 @@ ingvar:
 geof:
   name: Geoffroy Couprie
   thumbnailUrl: "geof.png"
-  featured: true
+  featured: false
   desc: " Geoffroy handles security and quality assurance at Clever Cloud, develops in Rust and researches on parser security at VideoLAN. He thinks a lot about cryptography, protocol design and data management."
   links:
     - icon: rust
@@ -139,7 +139,7 @@ ashley:
 pe_meunier:
   name: Pierre-Étienne Meunier
   thumbnailUrl: "pe_meunier.jpg"
-  featured: true
+  featured: false
   links:
     - icon: rust
       title: "pmeunier on users.rust-lang.org"
@@ -155,6 +155,7 @@ pe_meunier:
 sebastian:
   name: Sebastian Dröge
   thumbnailUrl: "slomo.jpg"
+  featured: true
   desc: " Sebastian is a Free Software developer and one of the GStreamer maintainers and core developers. He has been involved with the project since more than 10 years now. He also contributes to various other Free Software projects, like Debian, GNOME and WebKit. While finishing his degree in computer sciences at the University of Paderborn in Germany, he started working as a contractor for GStreamer and related technologies. Nowadays Sebastian lives in Greece and is working at Centricular, a company providing consultancy services around GStreamer and Free Software in general. Apart from multimedia related topics, Sebastian has an interest in digital signal processing, programming languages, machine learning, network protocols and distributed systems."
   links:
     - icon: rust
@@ -170,6 +171,7 @@ sebastian:
       # link: 
 luis:
   name: "Luis de Bethencourt"
+  featured: true
   thumbnailUrl: "luisbg.jpg"
   desc: "Luis de Bethencourt is a freedom-loving technocrat, who currently works
 for Samsung's Open Source Group in London. He has always enjoyed
@@ -187,6 +189,7 @@ walks in the park, and people who read bios to the end."
 
 fletcher:
   name: Fletcher Nichol
+  featured: true
   thumbnailUrl: "fletcher.jpg"
   desc: " Fletcher Nichol is a software developer from Edmonton, Canada who has worked in jobs ranging from systems administrator to web application developer. He spends far too much time writing open source software and far too little time playing the drums. He is active in many automation and testing projects such as [Chef](https://github.com/chef/chef), [Test Kitchen](http://kitchen.ci/) and is a core developer of [Habitat](https://www.habitat.sh/) which is largely written in Rust. Fletcher works for Chef Software Inc, an automation company for speed and awesomeness."
   links:

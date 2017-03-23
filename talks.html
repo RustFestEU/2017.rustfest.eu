@@ -38,7 +38,7 @@ title: Talks
                 {% for spk in talk.speakers %}
                   {% assign speaker = site.data.speakers[spk] %}
 
-                    <div id="{{speaker.name |slugify }} class="speaker">
+                    <div id="{{speaker.name |slugify }}" class="speaker">
                       <div class="portrait">
                         <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
                       </div>

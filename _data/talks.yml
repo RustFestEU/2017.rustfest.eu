@@ -11,7 +11,7 @@ Good news! I have already gone down this road and am now prepared to share my ad
 
 
 In this talk we will cover some of the challenges that Rust is uniquely qualified to address including static compilation, inlining dependencies, using clap for CLI parsing, pragmatically using native C libraries, maintaining a common codebase for Linux, Mac, and Windows, and on-boarding new Rustaceans. Have no fear: there has never been a better time to use Rust for your next service, application, or tool!"
-  public: false
+  public: true
 - speakers: 
   - luis
   - sebastian
@@ -23,7 +23,7 @@ In this talk we will discuss how Rust is the perfect match for GStreamer to evol
 
 
 And who knows, maybe in the future we will have a GStreamer completely written in Rust?"
-  public: false
+  public: true
 - by: pe_meunier
   title: "Building SSH servers in minutes"
   desc: "Thrussh is an SSH library for writing both clients and servers. It grew out of the need for a specialised SSH server, with very limited default permissions.
