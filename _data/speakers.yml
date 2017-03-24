@@ -1,5 +1,5 @@
 manish:
-  featured: false
+  featured: true
   name: "Manish Goregaokar"
   nick: "manishearth"
   thumbnailUrl: "manish.png"
@@ -17,7 +17,7 @@ manish:
       title: "manishearth.github.io"
       link: "http://manishearth.github.io/"
 edunham:
-  featured: false
+  featured: true
   name: "E Dunham"
   nick: "edunham"
   thumbnailUrl: "edunham.jpg"
@@ -122,6 +122,7 @@ geof:
       link: "http://geoffroycouprie.com/"
 ashley:
   name: ashley williams
+  featured: true
   thumbnailUrl: "ashley.jpg"
   desc: "Ashley Williams wears a lot of hats, both literally and professionally. They are currently a services engineer at npm, Inc, the package manager for JavaScript and the Node.js ecosystem. They also represent the Individual Membership on the Node.js Foundation Board of Directors. Previously a backend and services engineer at Mozilla, and a web engineer and educator at Bocoup, Ashley has a long history of designing, developing, and teaching systems and systems architecture."
   links:
@@ -155,7 +156,7 @@ pe_meunier:
 sebastian:
   name: Sebastian Dröge
   thumbnailUrl: "slomo.jpg"
-  featured: true
+  featured: false
   desc: " Sebastian is a Free Software developer and one of the GStreamer maintainers and core developers. He has been involved with the project since more than 10 years now. He also contributes to various other Free Software projects, like Debian, GNOME and WebKit. While finishing his degree in computer sciences at the University of Paderborn in Germany, he started working as a contractor for GStreamer and related technologies. Nowadays Sebastian lives in Greece and is working at Centricular, a company providing consultancy services around GStreamer and Free Software in general. Apart from multimedia related topics, Sebastian has an interest in digital signal processing, programming languages, machine learning, network protocols and distributed systems."
   links:
     - icon: rust
@@ -171,7 +172,7 @@ sebastian:
       # link: 
 luis:
   name: "Luis de Bethencourt"
-  featured: true
+  featured: false
   thumbnailUrl: "luisbg.jpg"
   desc: "Luis de Bethencourt is a freedom-loving technocrat, who currently works
 for Samsung's Open Source Group in London. He has always enjoyed
@@ -189,7 +190,7 @@ walks in the park, and people who read bios to the end."
 
 fletcher:
   name: Fletcher Nichol
-  featured: true
+  featured: false
   thumbnailUrl: "fletcher.jpg"
   desc: " Fletcher Nichol is a software developer from Edmonton, Canada who has worked in jobs ranging from systems administrator to web application developer. He spends far too much time writing open source software and far too little time playing the drums. He is active in many automation and testing projects such as [Chef](https://github.com/chef/chef), [Test Kitchen](http://kitchen.ci/) and is a core developer of [Habitat](https://www.habitat.sh/) which is largely written in Rust. Fletcher works for Chef Software Inc, an automation company for speed and awesomeness."
   links:
@@ -207,6 +208,7 @@ fletcher:
 liz:
   name: Liz Baillie
   thumbnailUrl: "liz.jpg"
+  featured: true
   desc: "Liz is currently wrangling the JavaScripts and herding the Rubies as an engineer at Tilde. Previously, she spent many years drawing comic books to a limited but enthusiastic audience. She is just getting started at contributing to open source projects and is already addicted. Please send help (don't actually send help)."
   links:
     - icon: rust

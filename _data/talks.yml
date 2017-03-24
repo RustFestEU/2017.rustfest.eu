@@ -4,7 +4,7 @@
 
 
 Good news! I have already gone down this road and am now prepared to share my adventure with you. Luckily, I was able to capture much of the flora and fauna of Rustlandia with my primitive pictorial devices (paper and pen)."
-  public: false
+  public: true
 - by: fletcher
   title: "Taking Rust to Production: Lessons Learned From the Habitat Project"
   desc: "The Rust language is more than ready for production--it excels at it! The [Habitat](https://www.habitat.sh/) project team has been using Rust for a year in public and an extra year in stealth. With over 40,000 lines of Rust code so far, we maintain multiple CLI applications, a cross-platform process supervisor, a gossip subsystem, and a micro service-oriented distributed build system.
@@ -49,7 +49,7 @@ Now, why would anyone want to write such a library? Well, I'll try to show why R
   desc: "I made one of my favorite pull requests ever on December 17, 2016:
 
 
-```rust-www/pulls/634: add npm to friends page```
+`rust-www/pulls/634: add npm to friends page`
 
 
 On any given day, the npm registry, a repository of packages primarily for JavaScript and Node.js, serves around 350,000,000 package downloads. The npm services team is small: 5 engineers, 2 managers, and a CTO. This once little Node.js service, the lifeblood of the modern web development workflow, is now a huge set of microservices- and starting in late 2016, it's no longer just Node.js- it's running production Rust.
@@ -59,7 +59,7 @@ In this talk, I'll tell the story of how I convinced my manager and team to set 
 
 
 At the end of the talk, you will have a keen understanding of what problems Rust is good at solving and feel motivated and empowered to start the conversation about bringing Rust into your own organization."
-  public: false
+  public: true
 - by: geof
   title: "Sōzu, a hot reconfigurable reverse HTTP proxy"
   desc: "Could you write a Rust program that never, ever has to stop? Not even for configuration changes or binary upgrades? One that will handle the traffic for thousands of applications on many more virtual machines that get up and down at any time?
