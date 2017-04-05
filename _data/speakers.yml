@@ -95,7 +95,7 @@ lislis:
 ingvar:
   name: Ingvar Stepanyan
   thumbnailUrl: "ingvar.jpg"
-  featured: false
+  featured: true
   desc: " Obsessed D2D programmer (parsers, compilers, tools & specs), speaker and performance engineer. Currently speeding code up on the fly at Cloudflare."
   links:
     - icon: github
@@ -121,8 +121,8 @@ geof:
     - icon: website
       link: "http://geoffroycouprie.com/"
 ashley:
-  name: ashley williams
-  featured: false
+  name: Ashley Williams
+  featured: true
   thumbnailUrl: "ashley.jpg"
   desc: "Ashley Williams wears a lot of hats, both literally and professionally. They are currently a services engineer at npm, Inc, the package manager for JavaScript and the Node.js ecosystem. They also represent the Individual Membership on the Node.js Foundation Board of Directors. Previously a backend and services engineer at Mozilla, and a web engineer and educator at Bocoup, Ashley has a long history of designing, developing, and teaching systems and systems architecture."
   links:
@@ -190,7 +190,7 @@ walks in the park, and people who read bios to the end."
 
 fletcher:
   name: Fletcher Nichol
-  featured: true
+  featured: false
   thumbnailUrl: "fletcher.jpg"
   desc: " Fletcher Nichol is a software developer from Edmonton, Canada who has worked in jobs ranging from systems administrator to web application developer. He spends far too much time writing open source software and far too little time playing the drums. He is active in many automation and testing projects such as [Chef](https://github.com/chef/chef), [Test Kitchen](http://kitchen.ci/) and is a core developer of [Habitat](https://www.habitat.sh/) which is largely written in Rust. Fletcher works for Chef Software Inc, an automation company for speed and awesomeness."
   links:
@@ -208,7 +208,7 @@ fletcher:
 liz:
   name: Liz Baillie
   thumbnailUrl: "liz.jpg"
-  featured: true
+  featured: false
   desc: "Liz is currently wrangling the JavaScripts and herding the Rubies as an engineer at Tilde. Previously, she spent many years drawing comic books to a limited but enthusiastic audience. She is just getting started at contributing to open source projects and is already addicted. Please send help (don't actually send help)."
   links:
     - icon: rust
