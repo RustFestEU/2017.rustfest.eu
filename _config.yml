@@ -18,6 +18,7 @@ permalink: "/blog/:title"
 metaKeywords: "rust, conf, rustfest, rustfesteu, conference, programming language, berlin"
 twitter_username: rustfest
 github_username:  rustfesteu
+facebook_username:  rustfest
 socialImageSrcTwitter: "/assets/favicons/logo.png"
 socialImageSrcFacebook: "/assets/favicons/logo.png"
 
@@ -27,3 +28,5 @@ mailchimp:
   server: asquera.us13.list-manage.com
   user: 7945052bc1ecc432bff53c079
   id: 5929ff51d6
+
+exclude: ["/vendor"]
