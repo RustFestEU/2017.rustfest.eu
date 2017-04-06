@@ -62,3 +62,9 @@
     font-weight: bold;
   }
 }
+
+.backdrop .popout {
+  background-color: transparentize($brand_purple, 0.5);
+}
+
+
