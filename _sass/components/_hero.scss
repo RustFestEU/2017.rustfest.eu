@@ -68,3 +68,10 @@
 }
 
 
+.img-grid {
+  display: flex;
+  flex-direction: column;
+  > div {
+    display: flex;
+  }
+}

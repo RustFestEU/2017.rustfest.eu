@@ -1,27 +1,16 @@
 ---
 layout: default
-title: "Next stop: Kyiv"
+title: "Travel help"
 permalink: /travel/
 ---
 
 <div class="popout" markdown="1">
   <section>
-    <h1>Next stop: Kyiv</h1>
-
-
-<p>Kyiv is a wonderful place! The city is very old with some parts dating back to 5th century CE. For a long time it was a cultural and political center of Eastern Europe, the birthplace of the modern Ukrainian, Russian, and Belarusian culture. Over centuries the city changed hands between Lithuania, Poland, and Russian Empire, and their influences created a unique mixture of architectural and artistic styles.</p>
-
-<p>Today, Kyiv is a vibrant city home to around 3 million people. It hosted the UEFA Euro 2012 final. It will also host the Eurovision Song Contest, and Dota2 Final Season Major this year.</p>
+    <h1>Travel Info: Kyiv</h1>
   </section>
 </div>
 
 <section markdown="1">
-
-## People Who Code in Kyiv
-
-About 50,000 software developers call Kyiv home. The developer scene is vibrant, with many large and small events happening throughout the year. In fact, pick any day, and somewhere there's a conference, or a meetup, or a hackathon. Many events like [JEEConf](http://jeeconf.com/), [RubyC](http://rubyc.eu/), [BuildStuff](http://buildstuff.lt/), [XPDays](http://xpdays.com.ua/), to name a few, attract many international speakers and attendees (with 70-100% of talks done in English). The audience is very receptive to foreign guests, and English becomes the primary language for some local meetups like [KyivJS](http://kyivjs.org/en/). When you come to RustFest you too will be very welcome!
-
-Some of these 50,000 developers write Rust. For example, [one of the companies here](https://evo.company/en/) uses Rust to automate their datacenter infrastructure to power 20% of all e-commerсe websites in the country. A few other develop products using Rust, too. Rust has been finding its way into blockchain, mobile development, games, and server-side components. Interest in the language grows all the time!
 
 ## Getting to Kyiv
 
@@ -29,7 +18,17 @@ Kyiv has two international airports (IEV and KBP), with a few low-cost airlines 
 
 For our guests from neighboring countries train may be a more convenient and more affordable alternative. There are overnight trains from Bratislava, Warsaw, Saint-Petersburg, Moscow, Minsk, Belgrade, some of them offer discounts for students and young adults if booked in advance.
 
-### Visa
+### Accommodation
+
+While travelling to Kyiv isn't the cheapest, accommodation is very affordable on the other hand. Once you make it there, you might just want to stay a bit longer ;) .
+
+If you want to stay at the confernce hotel, the Cosmopolite, we have a discount code for you (works through [their website only](http://cosmopolite-kiev.com/)): `RustFestCosmopolite30/04`. But there are also many other cheaper options, starting [from _7Eur for three nights_, or 16EUR right around the corner from the venue on booking.com](https://www.booking.com/hotel/ua/hostel-fishka.html?aid=304142;checkin=2017-04-28;checkout=2017-05-01;room1=A;homd=1;atlas_src=sr_iw_title#map_opened-map-header-cta).
+
+
+----
+
+
+## Visa
 
 [Ukraine migration policy](https://en.wikipedia.org/wiki/Visa_policy_of_Ukraine) is extremely liberal. If you're from Europe, US, or one of CIS countries you don't need a visa. Just book your flight, pack your bag, remember to take your passport, and you're good to go! This is true for many other countries like Japan, Canada, Chile, Brazil, etc. as you can see from the map below.
 
