@@ -141,6 +141,7 @@ pe_meunier:
   name: Pierre-Étienne Meunier
   thumbnailUrl: "pe_meunier.jpg"
   featured: false
+  desc: ""
   links:
     - icon: rust
       title: "pmeunier on users.rust-lang.org"
