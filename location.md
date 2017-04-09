@@ -4,16 +4,34 @@ title: "Next stop: Kyiv"
 permalink: /location/
 ---
 
-<div class="popout" markdown="1">
-  <section>
-    <h1>Next stop: Kyiv</h1>
-
-
-<p>Kyiv is a wonderful place! The city is very old with some parts dating back to 5th century CE. For a long time it was a cultural and political center of Eastern Europe, the birthplace of the modern Ukrainian, Russian, and Belarusian culture. Over centuries the city changed hands between Lithuania, Poland, and Russian Empire, and their influences created a unique mixture of architectural and artistic styles.</p>
-
-<p>Today, Kyiv is a vibrant city home to around 3 million people. It hosted the UEFA Euro 2012 final. It will also host the Eurovision Song Contest, and Dota2 Final Season Major this year.</p>
-  </section>
+<div class="backdrop" style="background: url(/assets/backdrops/kyiv.jpg) center center; padding: 0;">
+  <div class="popout">
+    <section>
+      <h1>Next stop: Kyiv</h1>
+      <p>We are very excited to host the second edition of RustFest in Kyiv, Ukraine. Kyiv is a wonderful place! The city is very old with some parts dating back to 5th century CE. </p>
+    </section>
+  </div>
 </div>
+
+<section>
+  <p>For a long time it was a cultural and political center of Eastern Europe, the birthplace of the modern Ukrainian, Russian, and Belarusian culture. Over centuries the city changed hands between Lithuania, Poland, and Russian Empire, and their influences created a unique mixture of architectural and artistic styles -- just look at the pictures below.</p>
+
+  <p>Today, Kyiv is a vibrant city -- <a href="https://www.lonelyplanet.com/ukraine/kyiv">Lonely Planet calls it "eclectic cityscape and raucous nightlife"</a> -- home to around 3 million people. It hosted the UEFA Euro 2012 final. It will also host the Eurovision Song Contest, and Dota2 Final Season Major this year.</p>
+</section>
+
+<section class="img-grid">
+
+<div>
+<img src="/assets/kyiv/16639137863_aac682509d_z.jpg">
+<img src="/assets/kyiv/640_square.jpg">
+</div><div>
+<img src="/assets/kyiv/cathedral.jpg">
+<img src="/assets/kyiv/512px-Pechersk_221.jpg">
+<img src="/assets/kyiv/531px-Андріївська_церква_Exterior.jpg">
+</div><div>
+</div>
+  
+</section>
 
 <section markdown="1">
 
@@ -23,56 +41,25 @@ About 50,000 software developers call Kyiv home. The developer scene is vibrant,
 
 Some of these 50,000 developers write Rust. For example, [one of the companies here](https://evo.company/en/) uses Rust to automate their datacenter infrastructure to power 20% of all e-commerсe websites in the country. A few other develop products using Rust, too. Rust has been finding its way into blockchain, mobile development, games, and server-side components. Interest in the language grows all the time!
 
-## Getting to Kyiv
-
-Kyiv has two international airports (IEV and KBP), with a few low-cost airlines servicing the city, including Ryanair, WizAir, Norwegian, AirBaltic, and Turkish Airlines. There are non-stop flights from NYC, too.
-
-For our guests from neighboring countries train may be a more convenient and more affordable alternative. There are overnight trains from Bratislava, Warsaw, Saint-Petersburg, Moscow, Minsk, Belgrade, some of them offer discounts for students and young adults if booked in advance.
-
-### Visa
-
-[Ukraine migration policy](https://en.wikipedia.org/wiki/Visa_policy_of_Ukraine) is extremely liberal. If you're from Europe, US, or one of CIS countries you don't need a visa. Just book your flight, pack your bag, remember to take your passport, and you're good to go! This is true for many other countries like Japan, Canada, Chile, Brazil, etc. as you can see from the map below.
-
-![Visa Policy in Ukraine](https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_policy_of_Ukraine.png)
-
-So, if you're a Rust hacker from Minsk and decided not to go to Berlin last year because of a visa, now you don't have this excuse anymore. Buy your ticket and come over!
-
-### Getting around
-
-Getting around the city is straightforward, too. The conference venue is right next to the Shulavska metro station, tickets are very cheap, and all stations have special bright yellow turnstiles for MasterCard PayPass users. Taxies are incredibly cheap, too. Even by Ukrainian standards the prices in the capital are often lower than in other cities. There are a few taxi services that we recommend:
- 
- 1. [Uklon](https://ssl.uklon.com.ua/) is an app and a bidding platform, with almost all local taxi companies and hundreds of individual drivers reviewing your bid. You place an order, can pay with a card. Most of the time you don't need to raise your bid, although raising it by just a little may make a big change in waiting time.
- 2. A few local services offer English-speaking drivers, too. <!--TODO -->
- 3. Yandex Taxi is also an aggregation service. Same deal as Uklon, download an app, pay with a card, no bidding though, if there are no cars in your area you're out of luck.
- 4. Uber is in Kyiv, too, although given the recent stories about the internal work environment and questionable business practices we can't recommend it.
-
-All airports have their own official taxi line, and getting to the city center costs around €10. There are many other unlicensed taxi drivers at the arrival area who try to get passengers, too. Some of them may try to scam you to pay them much more than that, most of them do not accept cards, either. You _can_ ride with them on your own risk, but we recommend against it. Once you are at your hotel or hostel, the personnel can assist you and order taxi for you.
+</section>
 
 
-## Staying in Kyiv
+<section markdown="1">
 
-First things first: Internet :) You don't need a passport to get a local SIM card. Most tariffs are prepaid without a subscription fee. If you plan to stay in the city for a few days it may be very convenient to get a local SIM and use 3G freely. Almost all public WiFi access points are password protected. Visit a cafe or a restaurant and ask the staff for a password.
+## Conference Venue
 
-Also, all cafes and restaurants are legally obliged to let you in and use their facilities if you have urgent needs. You don't have to order anything, just ask them to use the toilet.
+We will be hosting the conference at the amazing [Cosmpolite Hotel](http://cosmopolite-kiev.com/). If you want to stay there, we have [a discount code for you](/travel/#accommodation).
 
-Food is affordable and often pretty good. In fact, if you're a fan of Georgian, Turkish, Mediterranean, or Slavic cuisine, Kyiv is your best bet. 
+<div class="img-grid">
+ <div><img src="http://cosmopolite-kiev.com/wp-content/uploads/2013/09/D__7764-wpcf_710x470.jpeg"> <img src="http://cosmopolite-kiev.com/wp-content/uploads/2013/09/D__7830-31-images-wpcf_710x470.jpeg"> </div><div>
+<img src="http://cosmopolite-kiev.com/wp-content/uploads/2013/01/MG_6332_3_4_fused1-wpcf_710x470.jpg"><img src="http://cosmopolite-kiev.com/wp-content/uploads/2015/07/O1R7696_sharp.copy-71.png"></div>
+  
+</div>
 
-Hotels are affordable, the quality of service varies of course but pretty good in general. Hostels are incredibly widespread, but often located in the historical area with entrances in very unexpected places. You may get into a situation when neither you nor your driver has a clue how to get in. Keep the phone numbers for your place handy.
+</section>
 
-AirBnB is a thing, though many hosts do not speak English, so plan in advance.
+<hr>
 
-There are a few things to look out for during your stay in Kyiv.
-
- 1. There's a custom to park the cars on wide sidewalks in the city center. Cars often move very slowly on a sidewalk to find a parking spot. As a pedestrian, you're expected to try to give them way unless there's no way for you to move to let them pass. Don't let that bother you.
- 2. People often beg for money on the streets, especially near the metro stations. Avoid giving them anything, the money you give almost always get to wrong hands.
- 3. Pickpocketing is not widespread, but still present. Good rules of thumb apply. Don't keep your wallet easily accessible, don't keep the documents or any valuable items in your bag pockets - keep them either on you or in the main compartment which is harder to access. When in public transport take off your backpack. The good idea is to keep your earbuds plugged into your phone and play something quiet to your ear: when the music stops your phone may be in danger. When talking to strangers on the street, take a look around.
-
-## A note on languages
-
-Ukrainian is the official language in the country. All street signs, announcements in public transport, and so on, are in Ukrainian (though announcements in metro are often doubled in English). Each metro car has a route scheme in Ukrainian and English. Metro station names are lengthy! You may write down the ones you need. The station where the conference takes place is Shuliavska, or Шулявська – the only station on Red line that starts with letter Ш.
-
-Many young people – 20 to 30 years old – speak English. Restaurant personnel usually speak rudimentary English, enough to describe the food or give you helpful directions. If you get lost, try checking a nearby café and ask people for help.
-
-Both Ukrainian and Russian are widely spoken in Kyiv. If you talk to people in Russian, they often can switch to it to answer you. However, you shouldn't assume that absolutely everybody can speak Russian. A significant portion of Ukrainians live in the environment where no one speaks Russian, so they can easily read and understand it, but can't make up sentences and pronounce words correctly. Also, Russian as spoken in Ukraine is different from the one spoken in some parts Russia, and this means people may have difficulty understanding what you say. Be patient, repeat your words slowly, ask someone else to assist your conversation, or switch to English if necessary. Be kind and friendly, and you both will get along pretty well!
-
+<section style="font-size: 0.65em">
+    <p><strong>Credits:</strong> Backdrop picture is from <a href="https://www.flickr.com/photos/sergesegal/15688086793/">Sergey Galyonkin</a>, the images are from wiki commons: <a href="https://commons.wikimedia.org/wiki/File:St._Michael%27s_cathedral_2006,_Kyiv.jpg">[1]</a>, <a href="https://commons.wikimedia.org/wiki/File:%D0%90%D0%BD%D0%B4%D1%80%D1%96%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_Exterior.jpg">[2]</a>, <a href="https://commons.wikimedia.org/wiki/File:%D0%A5%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B8%D0%BA._%D0%9A%D0%B8%D1%97%D0%B2.JPG">[3]</a>, <a href="https://commons.wikimedia.org/wiki/File:%D0%90%D0%BD%D0%B4%D1%80%D1%96%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_Exterior.jpg">[4]</a>, <a href="https://commons.wikimedia.org/wiki/File:Pechersk_221.jpg">[5]</a>. Hotel Pictures are from their Webseite.</p>
 </section>

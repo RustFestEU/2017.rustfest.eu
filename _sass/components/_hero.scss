@@ -62,3 +62,16 @@
     font-weight: bold;
   }
 }
+
+.backdrop .popout {
+  background-color: transparentize($brand_purple, 0.5);
+}
+
+
+.img-grid {
+  display: flex;
+  flex-direction: column;
+  > div {
+    display: flex;
+  }
+}
