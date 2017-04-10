@@ -8,6 +8,11 @@
   featured: true
   link: "https://www.honeypot.io/"
   group: partner
+- name: "1aim"
+  logoName: 1aim.png
+  featured: true
+  link: "https://1aim.com"
+  group: partner
 - name: "Cosmopolite New Congress Hall"
   logoName: cosmopolite-congress-hall.png
   link: "http://cosmopolite-kiev.com/conference/new-congress-hall"
