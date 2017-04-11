@@ -22,7 +22,7 @@ For our guests from neighboring countries train may be a more convenient and mor
 
 While travelling to Kyiv isn't the cheapest, accommodation is very affordable on the other hand. Once you make it there, you might just want to stay a bit longer ;) .
 
-If you want to stay at the confernce hotel, the Cosmopolite, we have a discount code for you (works through [their website only](http://cosmopolite-kiev.com/)): `RustFestCosmopolite30/04`. But there are also many other cheaper options, starting [from _7Eur for three nights_, or 16EUR right around the corner from the venue on booking.com](https://www.booking.com/hotel/ua/hostel-fishka.html?aid=304142;checkin=2017-04-28;checkout=2017-05-01;room1=A;homd=1;atlas_src=sr_iw_title#map_opened-map-header-cta).
+If you want to stay at the conference hotel, the Cosmopolite, we have a discount code for you (works through [their website only](http://cosmopolite-kiev.com/)): `RustFestCosmopolite30/04`. But there are also many other cheaper options, starting [from _7Eur for three nights_, or 16EUR right around the corner from the venue on booking.com](https://www.booking.com/hotel/ua/hostel-fishka.html?aid=304142;checkin=2017-04-28;checkout=2017-05-01;room1=A;homd=1;atlas_src=sr_iw_title#map_opened-map-header-cta).
 
 
 ----
@@ -54,7 +54,7 @@ First things first: Internet :) You don't need a passport to get a local SIM car
 
 Also, all cafes and restaurants are legally obliged to let you in and use their facilities if you have urgent needs. You don't have to order anything, just ask them to use the toilet.
 
-Food is affordable and often pretty good. In fact, if you're a fan of Georgian, Turkish, Mediterranean, or Slavic cuisine, Kyiv is your best bet. 
+Food is affordable and often pretty good. In fact, if you're a fan of Georgian, Turkish, Mediterranean, or Slavic cuisine, Kyiv is your best bet.
 
 Hotels are affordable, the quality of service varies of course but pretty good in general. Hostels are incredibly widespread, but often located in the historical area with entrances in very unexpected places. You may get into a situation when neither you nor your driver has a clue how to get in. Keep the phone numbers for your place handy.
 
