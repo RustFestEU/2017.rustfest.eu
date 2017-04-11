@@ -29,3 +29,7 @@
   logoName: cosmopolite-congress-hall.png
   link: "http://cosmopolite-kiev.com/conference/new-congress-hall"
   group: venue
+- name: IT KPI
+  logoName: ITKPI_black.svg
+  link: http://itkpi.pp.ua
+  group: media
