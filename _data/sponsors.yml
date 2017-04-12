@@ -1,17 +1,29 @@
-- name: "asquera GmbH"
-  logoName: asquera.svg
-  link: "http://asquera.de"
+
+- name: "bitfury"
+  logoName: bitfury.png
   featured: true
-  group: partner
-- name: "Honeypot"
-  logoName: honeypot2.png
-  featured: true
-  link: "https://www.honeypot.io/"
-  group: partner
+  link: "http://bitfury.com/"
+  group: sponsor
+  desc: "The Bitfury Group develops and delivers both the software and the hardware solutions necessary for businesses, governments, organizations and individuals to securely move an asset across the Blockchain. The expertise of The Bitfury Group ensures successful, easy, fast, secure and cost-effective connectivity to the Blockchain."
+- name: "Mozilla"
+  logoName: mozilla.png
+  featured: false
+  link: "https://mozilla.org"
+  group: sponsor
 - name: "1aim"
   logoName: 1aim.png
   featured: true
   link: "https://1aim.com"
+  group: sponsor
+- name: "asquera GmbH"
+  logoName: asquera.svg
+  link: "http://asquera.de"
+  featured: false
+  group: partner
+- name: "Honeypot"
+  logoName: honeypot2.png
+  featured: false
+  link: "https://www.honeypot.io/"
   group: partner
 - name: "Cosmopolite New Congress Hall"
   logoName: cosmopolite-congress-hall.png
