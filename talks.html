@@ -68,21 +68,20 @@ title: Talks
       {% endfor %}
     </ul>
   </section>
-  <!-- <section>
+  <section>
       <h3>Further on stage</h3>
         <ul class="talks">
           {% for spk in site.data.speakers %}
             {% assign speaker = spk[1] %}
             {% if speaker.staged %}
               <li>
-                <h2 class="title" id="{{speaker.name | slugify}}">{{speaker.staged}}</h2>
+                <h2 class="title" id="{{speaker.name | slugify}}">{{speaker.name}}</h2>
                 <div class="wrap">
                   <div class="speaker">
                     <div class="portrait">
                       <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
                     </div>
                     <div class="desc">
-                      <h3 class="name">{{speaker.name}}</h3>
                       {{speaker.desc | markdownify }}
 
                       <ul class="links">
@@ -97,5 +96,5 @@ title: Talks
             {% endif %}
           {% endfor %}
         </ul>
-  </section> -->
+  </section>
 </div>

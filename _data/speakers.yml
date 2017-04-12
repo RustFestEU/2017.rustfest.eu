@@ -122,7 +122,7 @@ geof:
       link: "http://geoffroycouprie.com/"
 ashley:
   name: Ashley Williams
-  featured: true
+  featured: false
   thumbnailUrl: "ashley.jpg"
   desc: "Ashley Williams wears a lot of hats, both literally and professionally. They are currently a services engineer at npm, Inc, the package manager for JavaScript and the Node.js ecosystem. They also represent the Individual Membership on the Node.js Foundation Board of Directors. Previously a backend and services engineer at Mozilla, and a web engineer and educator at Bocoup, Ashley has a long history of designing, developing, and teaching systems and systems architecture."
   links:
@@ -223,3 +223,22 @@ liz:
       link: "https://twitter.com/_lbaillie"
     # - icon: website
     #   link: 
+steve:
+  name: Steve Klabnik
+  thumbnailUrl: "steve.jpg"
+  featured: true
+  staged: true
+  desc: "Hi, I'm Steve! I enjoy turning coffee into code, writing, philosophy, and physical activity. This is my own little corner of the internets. Enjoy!"
+  links:
+    - icon: website
+      title: "steveklabnik.com"
+      link: "http://www.steveklabnik.com/"
+    - icon: rust
+      title: "steveklabnik on users.rust-lang.org"
+      link: "https://users.rust-lang.org/users/steveklabnik/activity"
+    - icon: github
+      title: steveklabnik
+      link: "https://github.com/steveklabnik"
+    - icon: twitter
+      title: steveklabnik
+      link: "https://twitter.com/steveklabnik"
