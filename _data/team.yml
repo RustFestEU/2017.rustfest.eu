@@ -34,6 +34,7 @@ emma:
   desc: ""
   title: "HoneyPot.IO"
   thumbnailUrl: emma.jpg
+  alumn: true
   links:
   - icon: "github"
     title: "emmalou"
@@ -64,6 +65,7 @@ johanna:
   nick: "Johanna"
   desc: ""
   thumbnailUrl: johanna.jpg
+  alumn: true
   links:
     - icon: "twitter"
       title: "batjohe"
