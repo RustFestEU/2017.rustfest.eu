@@ -98,7 +98,6 @@ katsel:
     - icon: "github"
       title: "katsel"
       link: "https://github.com/katsel"
-  advisor: true
 andrey:
   name: "Andrey Listochkin"
   nick: "listochkin"
