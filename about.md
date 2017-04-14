@@ -13,9 +13,25 @@ We care about diversity and accessibility at this conference.
   <ul class="team">
     {% for entry in site.data.team %}
       {% assign member=entry[1] %}
-      <li>
-        {% include team-member.html member=member %}
-      </li>
+      {% unless member.alumn %}
+        <li>
+          {% include team-member.html member=member %}
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Alumni</h2>
+  <ul class="team">
+    {% for entry in site.data.team %}
+      {% assign member=entry[1] %}
+      {% if member.alumn %}
+        <li>
+          {% include team-member.html member=member %}
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </section>
