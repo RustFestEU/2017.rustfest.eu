@@ -13,7 +13,7 @@ We care about diversity and accessibility at this conference.
   <ul class="team">
     {% for entry in site.data.team %}
       {% assign member=entry[1] %}
-      {% unless member.advisor %}
+      {% unless member.alumn %}
         <li>
           {% include team-member.html member=member %}
         </li>
@@ -23,11 +23,11 @@ We care about diversity and accessibility at this conference.
 </section>
 
 <section>
-  <h2>Advisors</h2>
+  <h2>Alumni</h2>
   <ul class="team">
     {% for entry in site.data.team %}
       {% assign member=entry[1] %}
-      {% if member.advisor %}
+      {% if member.alumn %}
         <li>
           {% include team-member.html member=member %}
         </li>
