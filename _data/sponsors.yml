@@ -15,6 +15,16 @@
   featured: true
   link: "https://1aim.com"
   group: sponsor
+- name: "Centricular"
+  logoName: centricular.svg
+  featured: false
+  link: "http://www.centricular.com/"
+  group: sponsor
+- name: "celver cloud"
+  logoName: clever-cloud.svg
+  featured: false
+  link: "https://www.clever-cloud.com/"
+  group: sponsor
 - name: "asquera GmbH"
   logoName: asquera.svg
   link: "http://asquera.de"
