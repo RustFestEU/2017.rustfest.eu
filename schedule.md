@@ -11,7 +11,7 @@ title: Schedule
 
 | Talk | Speaker | Time |
 | ------------- | ------------- |
-| Open" as in "Welcoming": Facilitating Contributions | Manish Goregaokar | 9:00-9:30 |
+| "Open" as in "Welcoming": Facilitating Contributions | Manish Goregaokar | 9:00-9:30 |
 | The Illustrated Adventure Survival Guide for New Rustaceans | Liz Baillie | 9:40-9:55 |
 | Taking Rust to Production: Lessons Learned From the Habitat Project | Fletcher Nichol | 10:05-10:35 |
 | Break | | 10:35-10:50 |
