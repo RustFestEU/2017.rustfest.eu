@@ -6,7 +6,7 @@
   group: sponsor
   desc: "The Bitfury Group develops and delivers both the software and the hardware solutions necessary for businesses, governments, organizations and individuals to securely move an asset across the Blockchain. The expertise of The Bitfury Group ensures successful, easy, fast, secure and cost-effective connectivity to the Blockchain."
 - name: "Mozilla"
-  logoName: mozilla.png
+  logoName: mozilla.svg
   featured: false
   link: "https://mozilla.org"
   group: sponsor
