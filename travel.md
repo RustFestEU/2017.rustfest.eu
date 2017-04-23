@@ -38,7 +38,8 @@ So, if you're a Rust hacker from Minsk and decided not to go to Berlin last year
 
 ### Getting around
 
-Getting around the city is straightforward, too. The conference venue is right next to the Shulavska metro station, tickets are very cheap, and all stations have special bright yellow turnstiles for MasterCard PayPass users. Taxies are incredibly cheap, too. Even by Ukrainian standards the prices in the capital are often lower than in other cities. There are a few taxi services that we recommend:
+Getting around the city is straightforward, too. The conference venue is right next to the [Shuliavska
+(Шулявська) metro station](https://www.openstreetmap.org/node/3806407690), tickets are very cheap, and all stations have special bright yellow turnstiles for MasterCard PayPass users. Taxies are incredibly cheap, too. Even by Ukrainian standards the prices in the capital are often lower than in other cities. There are a few taxi services that we recommend:
  
  1. [Uklon](https://ssl.uklon.com.ua/) is an app and a bidding platform, with almost all local taxi companies and hundreds of individual drivers reviewing your bid. You place an order, can pay with a card. Most of the time you don't need to raise your bid, although raising it by just a little may make a big change in waiting time.
  2. A few local services offer English-speaking drivers, too. <!--TODO -->
