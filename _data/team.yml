@@ -139,3 +139,12 @@ hoverbear:
     - icon: "website"
       title: "hoverbear.org"
       link: "https://hoverbear.org"
+thomascovenant:
+  name: "Dina Jalkanen"
+  nick: "thomascovenant"
+  desc: ""
+  thumbnailUrl: dina.jpg
+  links:
+    - icon: "website"
+      title: "Tech Inc Wiki"
+      link: "https://wiki.techinc.nl/index.php/User:Thomascovenant"
