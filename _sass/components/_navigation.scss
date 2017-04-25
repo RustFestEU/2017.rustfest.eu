@@ -49,10 +49,6 @@ header.navigation {
     ul {
       padding-left: 0;
 
-      @include wide-device {
-        padding-left: 2em;
-      }
-
       li {
         display: inline-block;
         margin: 0 1em;
@@ -69,10 +65,6 @@ header.navigation {
   .social-bar {
     ul {
       padding-left: 0;
-
-      @include wide-device {
-        padding-left: 2em;
-      }
 
       li {
         display: inline-block;
