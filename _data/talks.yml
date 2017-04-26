@@ -1,3 +1,13 @@
+- by: "manish"
+  public: true
+  title: "\"Open\" as in \"Welcoming\": Facilitating Contributions"
+  desc: "Is your open source project \"open\" as in \"available\", or \"open\" as in \"welcoming\"? I'm of the opinion that we should always strive to be welcoming in open source. It's a great way to grow your project, and a great way for people to get opportunities to improve themselves as programmers. Everyone wins! In this talk we'll explore some techniques for doing this effectively, and better understand how to approach mentorship in open source."
+  special: "keynote"
+- by: "edunham"
+  public: true
+  title: "Spreading The Rust"
+  desc: "Today you've gotten inspired by the power of Rust, and seen it skillfully wielded by experts to do great things. This talk will wrap things up by outlining the next steps for bringing Rust to your favorite tech communities. We'll cover the best resources for building expertise at Rust, for you or those you mentor."
+  special: "keynote"
 - by: liz
   title: "The Illustrated Adventure Survival Guide for New Rustaceans"
   desc: "Programming is an adventure, often more harrowing than it has to be. If you're more used to higher-level languages like Ruby or JavaScript, learning Rust can feel like an impossible journey that leaves you wishing for a well-written and heavily illustrated field guide.
@@ -12,7 +22,7 @@ Good news! I have already gone down this road and am now prepared to share my ad
 
 In this talk we will cover some of the challenges that Rust is uniquely qualified to address including static compilation, inlining dependencies, using clap for CLI parsing, pragmatically using native C libraries, maintaining a common codebase for Linux, Mac, and Windows, and on-boarding new Rustaceans. Have no fear: there has never been a better time to use Rust for your next service, application, or tool!"
   public: true
-- speakers: 
+- speakers:
   - luis
   - sebastian
   title: "GStreamer & Rust – A perfect match"
@@ -89,11 +99,6 @@ Let me show you how I wrote my first game in Rust with Piston."
   public: true
   title: "Writing Idiomatic Libraries in Rust"
   desc: "The existence of libraries with nice, user-friendly interfaces is one of the most important factors when choosing a programming language. And while there are lots of books about how to write idiomatic libraries in other languages, finding the same information for Rust is more difficult. With this in mind, this talk will present several techniques that help developers take advantage of all that Rust has to offer and create idiomatic APIs: From implementing conversion traits and session types to using custom iterators and decorating built-in types."
-- by: "manish"
-  public: true
-  title: "\"Open\" as in \"Welcoming\": Facilitating Contributions"
-  desc: "Is your open source project \"open\" as in \"available\", or \"open\" as in \"welcoming\"? I'm of the opinion that we should always strive to be welcoming in open source. It's a great way to grow your project, and a great way for people to get opportunities to improve themselves as programmers. Everyone wins! In this talk we'll explore some techniques for doing this effectively, and better understand how to approach mentorship in open source."
-  special: "keynote"
 - by:
   title:
   desc:

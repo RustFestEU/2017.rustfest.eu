@@ -32,6 +32,7 @@ edunham:
     - icon: "twitter"
       title: "manishearth"
       link: "https://twitter.com/qedunham"
+  desc: ""
 paul:
   name: Paul Colomiets
   thumbnailUrl: "paul.jpg"
