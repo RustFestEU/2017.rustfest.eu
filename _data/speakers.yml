@@ -16,6 +16,7 @@ manish:
     - icon: "website"
       title: "manishearth.github.io"
       link: "http://manishearth.github.io/"
+  desc: "I'm a physics student who enjoys programming with a passion. I've been programming from an early age and I love to write workflow-improving tools for myself and others. Lately, I've been working with open source projects like Mozilla Firefox, Rust, and Servo."
 edunham:
   featured: true
   name: "E Dunham"
@@ -35,7 +36,7 @@ paul:
   name: Paul Colomiets
   thumbnailUrl: "paul.jpg"
   featured: false
-  desc: " I have coded in python for 10 years. I'm now coding mostly in Rust. I'm obsessive about asynchronous code and microservice-based architecture. For my day job, I'm building containerization and orchestration systems for evo.company. "
+  desc: "I have coded in python for 10 years. I'm now coding mostly in Rust. I'm obsessive about asynchronous code and microservice-based architecture. For my day job, I'm building containerization and orchestration systems for evo.company. "
   links:
     - icon: rust
       title: "tailhook on users.rust-lang.org"
@@ -222,13 +223,13 @@ liz:
       title: _lbaillie
       link: "https://twitter.com/_lbaillie"
     # - icon: website
-    #   link: 
+    #   link:
 steve:
   name: Steve Klabnik
   thumbnailUrl: "steve.jpg"
   featured: true
   staged: true
-  desc: "Hi, I'm Steve! I enjoy turning coffee into code, writing, philosophy, and physical activity. This is my own little corner of the internets. Enjoy!"
+  desc: "Hi, I'm Steve! I enjoy turning coffee into code, writing, philosophy, and physical activity."
   links:
     - icon: website
       title: "steveklabnik.com"
