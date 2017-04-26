@@ -105,3 +105,30 @@
     }
   }
 }
+
+@media only screen and (max-width: 360px) {
+  .schedule tr {
+    display: flex;
+    flex-direction: column;
+  }
+  .schedule td,
+  .schedule td.time {
+    display: block;
+    width: auto;
+  }
+  .schedule td.time {
+    text-align: left;
+    line-height: 1.25;
+    padding-top: .5em;
+    border-color: white;
+  }
+  .schedule td {
+    line-height: 1.5;
+  }
+  .schedule .speaker {
+    margin: .5em 0;
+  }
+  .schedule .speaker img {
+    margin-left: 0;
+  }
+}
