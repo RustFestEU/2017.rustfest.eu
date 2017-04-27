@@ -20,10 +20,15 @@
   featured: false
   link: "http://www.centricular.com/"
   group: sponsor
-- name: "celver cloud"
+- name: "clever cloud"
   logoName: clever-cloud.svg
   featured: false
   link: "https://www.clever-cloud.com/"
+  group: sponsor
+- name: "Samsung Open Source Group"
+  logoName: samsungosg.png
+  featured: false
+  link: "https://blogs.s-osg.org/"
   group: sponsor
 - name: "asquera GmbH"
   logoName: asquera.svg
