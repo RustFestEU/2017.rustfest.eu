@@ -63,7 +63,7 @@ title: Sponsoring
 
 
 <section class="whitewithwheel">
-  <h2>Interested in Sponsoring?</h2>
+  <h2>Interested in Sponsoring for next time in lovely Zurich?</h2>
   <br />
   <p>
     <a class="button" href="mailto:sponsors@rustfest.eu">
