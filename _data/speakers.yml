@@ -16,7 +16,7 @@ manish:
     - icon: "website"
       title: "manishearth.github.io"
       link: "http://manishearth.github.io/"
-  desc: "I'm a physics student who enjoys programming with a passion. I've been programming from an early age and I love to write workflow-improving tools for myself and others. Lately, I've been working with open source projects like Mozilla Firefox, Rust, and Servo."
+  desc: "I'm a research engineer at Mozilla working on the Servo browser engine in Rust."
 edunham:
   featured: true
   name: "E Dunham"
