@@ -44,6 +44,14 @@
   logoName: cosmopolite-congress-hall.png
   link: "http://cosmopolite-kiev.com/conference/new-congress-hall"
   group: venue
+- name: "Ruby Meditation"
+  logoName: ruby-meditation.png
+  link: http://www.rubymeditation.org/
+  group: media
+- name: IT KPI
+  logoName: rubyc.svg
+  link: http://rubyc.eu/
+  group: media
 - name: IT KPI
   logoName: ITKPI_black.svg
   link: http://itkpi.pp.ua
