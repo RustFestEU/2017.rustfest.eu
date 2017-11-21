@@ -8,7 +8,7 @@
   title: "Spreading The Rust"
   desc: "Today you've gotten inspired by the power of Rust, and seen it skillfully wielded by experts to do great things. This talk will wrap things up by outlining the next steps for bringing Rust to your favorite tech communities. We'll cover the best resources for building expertise at Rust, for you or those you mentor."
   special: "keynote"
-- by: liz
+- by: lee
   title: "The Illustrated Adventure Survival Guide for New Rustaceans"
   desc: "Programming is an adventure, often more harrowing than it has to be. If you're more used to higher-level languages like Ruby or JavaScript, learning Rust can feel like an impossible journey that leaves you wishing for a well-written and heavily illustrated field guide.
 

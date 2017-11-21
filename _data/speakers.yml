@@ -207,24 +207,19 @@ fletcher:
       title: fnichol
       link: "https://twitter.com/fnichol"
     # - icon: website
-      # link: 
-liz:
-  name: Liz Baillie
-  thumbnailUrl: "liz.jpg"
+      # link:
+lee:
+  name: Lee Baillie
+  thumbnailUrl: "lee.jpg"
   featured: false
-  desc: "Liz is currently wrangling the JavaScripts and herding the Rubies as an engineer at Tilde. Previously, she spent many years drawing comic books to a limited but enthusiastic audience. She is just getting started at contributing to open source projects and is already addicted. Please send help (don't actually send help)."
+  desc: "Lee is currently wrangling the JavaScripts and herding the Rubies as an engineer at Tilde. Previously, she spent many years drawing comic books to a limited but enthusiastic audience. She is just getting started at contributing to open source projects and is already addicted. Please send help (don't actually send help)."
   links:
-    - icon: rust
-      title: "lizbaillie on users.rust-lang.org"
-      link: "https://users.rust-lang.org/users/lizbaillie/activity"
     - icon: github
       title: lbaillie
       link: "https://github.com/lbaillie"
     - icon: twitter
       title: _lbaillie
       link: "https://twitter.com/_lbaillie"
-    # - icon: website
-    #   link:
 steve:
   name: Steve Klabnik
   thumbnailUrl: "steve.jpg"
